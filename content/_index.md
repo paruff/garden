@@ -7,7 +7,7 @@ weight: 0
 Here is the start of my digital garden
 
 ### Map of Content:
-[[daily]]
+[[Daily]]
 [[Goals-static]]:
 [[Projects]]:
 
