@@ -1,0 +1,3 @@
+|   |   |
+|---|---|
+|Positive Indicators:<br><br>- I sleep easy and wake rested<br>- I feel balanced and happy<br>- I feel passionate and cheerful towards my work|­­Negative Indicators:<br><br>- Sleep is difficult and I’m waking tense and sore<br>- I feel anger, resentment and/or jealousy<br>- I feel procrastination and drudgery in my work|
