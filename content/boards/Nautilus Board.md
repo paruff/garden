@@ -6,23 +6,23 @@ kanban-plugin: basic
 
 ## Backlog
 
-- [ ] water, pear, apple and peach
 - [ ] Design food forest orchard
 - [ ] dig well
-- [ ] prune plums
 - [ ] prune citrus
-- [ ] prune olives
 - [ ] prune figs
 - [ ] prune walnut
 
 
 ## To Do
 
-- [ ] Tasks?
+- [x] Tasks? ✅ 2023-07-26
+- [ ] prune plums
+- [ ] prune olives
 
 
 ## Doing
 
+- [ ] water, pear, apple and peach
 
 
 ## Waiting
