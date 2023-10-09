@@ -6,7 +6,7 @@ people::
 
 I have meditated on and off for years, since about high school. 
 
-Recently I discovered [[The Mind Illuminate]]  a book and comprehensive system outlining steps of stages to mindfulness or enlightenment.
+Recently I discovered [[02 Areas/Mindfullness/The Mind Illuminate]]  a book and comprehensive system outlining steps of stages to mindfulness or enlightenment.
 
 There after the passing fo the author there appears to be much less support for training in TMI so I am exploring unified Mindfulness from Shezin Young.
 
@@ -16,7 +16,7 @@ A goal of mine is to use the stages and steps aka guidance from TMI within the U
 
 I intend to use [[deliberate practice]] to focus and develop my mindfulness and meditation skills. 
 
-[[Unifed Mindfulness]]
+[[02 Areas/Mindfullness/Unifed Mindfulness]]
 
 Metta 
 -   I wish you will find peace. May you live in peace.

@@ -5,7 +5,7 @@
 https://ianburgess.me.uk/2021/04/28/the-mind-illuminated-stages-of-meditation/
 
 **The Novice Meditator**  
-1. [[Establishing a practice]]
+1. [[02 Areas/Mindfullness/Establishing a practice]]
 2. Interrupted attention and overcoming mind wandering. [TMI stage 2 visual guide](https://i.redd.it/0tcu2peevbz11.png)
 3. Extended attention and overcoming forgetting.  
 **Milestone 1: Continuous attention to the meditation object**

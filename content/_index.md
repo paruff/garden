@@ -9,6 +9,6 @@ Here is the start of my  garden
 ### Map of Content:
  - [[Daily]] 
  - [[Goals-static]]
- - [[Projects]]
+ - [[01 Projects/Projects]]
  - [[boards/Boards|Boards]]
 

@@ -4,7 +4,7 @@
 # Food Forest
 
 
-[[products/food forest/Pruning]] is the order of the day today.
+[[02 Areas/Edible Forest/food forest/Pruning]] is the order of the day today.
 
 Three kinds of cuts
 1. Heading
@@ -56,7 +56,7 @@ Tags:
 
 https://www.fs.usda.gov/nac/
 
-[[products/food forest/Transplant]]
+[[02 Areas/Edible Forest/food forest/Transplant]]
 
 https://plants.sc.egov.usda.gov/home
 
@@ -105,7 +105,7 @@ Plant data:
 Cover crops:
 [cover crops - Charles Dowding](https://youtu.be/EPREC6s6K28)
 
-[[products/Permaculture Design Course/Permaculture Desing Course]]
+[[02 Areas/Edible Forest/Permaculture Design Course/Permaculture Desing Course]]
 
 [[Hemp]] as a product?
 

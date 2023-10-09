@@ -5,11 +5,11 @@
 
 Hear about a book today  "Making it Stick" and the three main points / practices are self quizzing, interwoven , space repitation
 
-### [[Spaced repetition]]
-### [[Pomodoro]]
+### [[03 Resources/Learning/Spaced repetition]]
+### [[03 Resources/Learning/Pomodoro]]
 ### Binaural beats 
 ### Mind maps
-### [[Learning by Teaching]] 
+### [[03 Resources/Learning/Learning by Teaching]] 
 
 Tags:
 #learning #pomodoro bin

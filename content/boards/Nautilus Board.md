@@ -9,20 +9,19 @@ kanban-plugin: basic
 - [ ] Design food forest orchard
 - [ ] dig well
 - [ ] prune citrus
-- [ ] prune figs
-- [ ] prune walnut
 
 
 ## To Do
 
-- [x] Tasks? ✅ 2023-07-26
-- [ ] prune plums
+- [ ] prune walnut
+- [ ] prune figs
 - [ ] prune olives
+- [ ] water, pear, apple and peach
 
 
 ## Doing
 
-- [ ] water, pear, apple and peach
+- [ ] prune plums
 
 
 ## Waiting
@@ -31,6 +30,7 @@ kanban-plugin: basic
 
 ## Done
 
+- [x] Tasks? ✅ 2023-07-26
 
 
 
