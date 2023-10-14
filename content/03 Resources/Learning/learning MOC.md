@@ -3,19 +3,30 @@
 ### Summary:
 
 
-Hear about a book today  "Making it Stick" and the three main points / practices are self quizzing, interwoven , space repitation
+HearD about a book today  "Making it Stick" and the three main points / practices are self quizzing, interwoven , space repetition
 
-### [[03 Resources/Learning/Spaced repetition]]
-### [[03 Resources/Learning/Pomodoro]]
+
+spaced practice, 
+interleaving, 
+retrieval practice, 
+elaboration, 
+concrete examples 
+dual coding
+
+I had/have been using :
+### [[Spaced repetition]]
+### [[Pomodoro]]
 ### Binaural beats 
 ### Mind maps
 ### [[03 Resources/Learning/Learning by Teaching]] 
+Examples/labs or tutorials
 
 Tags:
 #learning #pomodoro bin
 https://csuglobal.edu/blog/increasing-cognitive-function-binaural-beats
 
 Resources:
+Make it Stick - Book
 [Visual Learning info graphic](https://visible-learning.org/2013/02/infographic-john-hattie-visible-learing/)
 [Visible learning research results](https://www.visiblelearningmetax.com/)
 https://www.coursera.org/learn/learning-how-to-learn
@@ -31,3 +42,9 @@ https://youtu.be/oTuEvnfgQcY
 https://en.wikipedia.org/wiki/Testing_effect
 
 https://bjorklab.psych.ucla.edu/research/
+
+
+
+spaced practice, interleaving, retrieval practice, elaboration, concrete examples, and dual coding
+
+https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-017-0087-y

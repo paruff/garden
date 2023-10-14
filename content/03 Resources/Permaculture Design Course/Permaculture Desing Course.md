@@ -4,7 +4,7 @@ https://www.mindmeister.com/937713041/permaculture-design-certificate-course
 
 
 
-1.  [[02 Areas/Edible Forest/Permaculture Design Course/Introduction to Permaculture]]– This section and the next lay the foundation with the [[02 Areas/Edible Forest/core permaculture principles]] on which permaculture is based.
+1.  [[03 Resources/Permaculture Design Course/Introduction to Permaculture]]– This section and the next lay the foundation with the [[02 Areas/Edible Forest/core permaculture principles]] on which permaculture is based.
 2.  **Concepts and Themes in Design –** You might call this portion _How Does an Ecosystem Work?_
 3.  **Methods of Design –** Now we start getting into the nitty-gritty tools and techniques for replicating natural, self-sustaining ecosystems!
 4.  **Pattern Understanding –** Circles, spirals, waves, branches…we see certain patterns over and over again in nature and human designs, but why? What purposes do they serve, and which should be used in X situation?

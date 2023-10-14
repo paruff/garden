@@ -1,4 +1,12 @@
 
+Soil
+
+ - Compost
+ - Rock dust, Basalt
+ - Micro organisms - compost tea , three months to organic clean levels
+
+
+Compost and Basalt rock dust. rock dust 1 in 5 compost by volume 
 
 
 # Food Forest
@@ -105,7 +113,7 @@ Plant data:
 Cover crops:
 [cover crops - Charles Dowding](https://youtu.be/EPREC6s6K28)
 
-[[02 Areas/Edible Forest/Permaculture Design Course/Permaculture Desing Course]]
+[[03 Resources/Permaculture Design Course/Permaculture Desing Course]]
 
 [[Hemp]] as a product?
 
@@ -113,3 +121,6 @@ https://deepgreenpermaculture.com/permaculture/permaculture-design-principles/8-
 
 https://treeyopermacultureedu.com/chapter-2-3-or-the-11-design-principles-from-the-intro-book/accelerating-succession-and-evolution/
 
+
+
+Roller crimping can save 50% on irrigation !!

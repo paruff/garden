@@ -35,3 +35,7 @@ Tags:
 #perennials 
 
 [How to Prune](https://www.almanac.com/content/pruning-guide-trees-shrubs)
+
+Training 
+
+wire 10-12 gauge 

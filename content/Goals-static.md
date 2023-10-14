@@ -12,7 +12,7 @@ I have a few goals:
 
 [[01 Projects/Learn Portuguese/Portuguese]] language at least to A2 level as that is required for citizenship in portugal. That is clearly an external goal.
 
-A [[02 Areas/Edible Forest/food forest/food forest]], or is it grow our owne food. It also includes creating an habitat for the local wildlife. Seems it is complicated.Steward of 
+A [[02 Areas/Edible Forest/food forest/Food forest MOC]], or is it grow our owne food. It also includes creating an habitat for the local wildlife. Seems it is complicated.Steward of 
 
 Generative life, shifting from my consumptive style of life to a generative approach to living.
 
@@ -22,7 +22,7 @@ I love sharing what I am doing so I would like to share these efforts to that en
 [[publish]] my garden
 
 
-Most of my goals require [[03 Resources/Learning/learning]]
+Most of my goals require [[03 Resources/Learning/learning MOC]]
 
 
 ### Projects/Products:
