@@ -1,4 +1,4 @@
-[[People MOC]]
+[[People/People MOC]]
 tags:: #status/person #RGP/guest/todo
 dates:: {{date}}
 people:: 

@@ -6,12 +6,12 @@
 HearD about a book today  "Making it Stick" and the three main points / practices are self quizzing, interwoven , space repetition
 
 
-spaced practice, 
-interleaving, 
-retrieval practice, 
-elaboration, 
-concrete examples 
-dual coding
+ - spaced practice - 
+ - interleaving - 
+ - retrieval practice -  
+ - elaboration - 
+ - concrete examples  - 
+ - dual coding - visual and other
 
 I had/have been using :
 ### [[Spaced repetition]]
@@ -48,3 +48,13 @@ https://bjorklab.psych.ucla.edu/research/
 spaced practice, interleaving, retrieval practice, elaboration, concrete examples, and dual coding
 
 https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-017-0087-y
+https://visible-learning.org/hattie-ranking-influences-effect-sizes-learning-achievement/
+
+
+
+Mind Map
+https://www.mindmeister.com/blog/effective-classroom-presentations-mind-maps/
+https://mindmappingsoftwareblog.com/the-3-best-mind-mapping-programs-for-making-presentations/
+
+
+https://visible-learning.org/2023/01/visible-learning-the-sequel-2023/

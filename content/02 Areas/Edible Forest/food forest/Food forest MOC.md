@@ -115,7 +115,7 @@ Cover crops:
 
 [[03 Resources/Permaculture Design Course/Permaculture Desing Course]]
 
-[[Hemp]] as a product?
+[[02 Areas/Edible Forest/Hemp]] as a product?
 
 https://deepgreenpermaculture.com/permaculture/permaculture-design-principles/8-accelerating-succession-and-evolution/
 
