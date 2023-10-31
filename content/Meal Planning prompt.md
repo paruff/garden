@@ -20,6 +20,6 @@
 
 **ACTION**: Please create a set of dinner options for one week. Please include the food type, brief meal description, estimated cost, level of sophistication, and cooking times. Please do not self reference or explain what you are doing. 
 
-**FORMAT**: Please provide this information in Table Format with abbreviated column headers. 
+**FORMAT**: Please provide this information in Table Format with abbreviated column headers.  Day of week, lunch or dinner, ingredients, recipe, prep time, cook time
 
-**TARGET**: These are meals for 2 with lactose and gluten intolerant so please plan the ingredient list accordingly.
+**TARGET**: These are meals for 2 with lactose and gluten intolerant and prefer salt, oil and sugar free meals so please plan the ingredient list accordingly.

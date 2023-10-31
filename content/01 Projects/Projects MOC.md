@@ -5,11 +5,10 @@ Projects:
 
 List
 - [[01 Projects/NDR/NCDESP]] sync with god, Nov ?,  
-- [[01 Projects/Terraform associate 231030/HCTA Terraform MOC|HCTA Terraform MOC]]Terraform cert, nov 1
 - Travel, funding CC churn, oct 15
 - [[01 Projects/Learn Portuguese/Portuguese MOC|Learn Portuguese]] , a1 
 - [[01 Projects/Fawkes/Fawkes MOC|Fawkes]]
-- [[|Douro Valley trip]] 20231021
+
 
 Identify Not Projects:
  - Dreams - projects with no deadlines
