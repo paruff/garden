@@ -60,3 +60,32 @@ https://mindmappingsoftwareblog.com/the-3-best-mind-mapping-programs-for-making-
 https://visible-learning.org/2023/01/visible-learning-the-sequel-2023/
 
 https://www.visiblelearningmetax.com/
+
+### [[Blooms taxonomy]]
+https://youtube.com/watch?v=q7lY-FytO3U&si=mGocRruK83LyIyAj
+
+6. Create
+5. Evaluation
+4. Analysis 
+3. Apply
+2. Understand
+1. Remember
+
+
+6 brain hacks
+Attention
+Alertness
+Sleep
+Repetition 
+Breaks
+Mistakes
+https://youtu.be/kKvK2foOTJM?si=S0JHai0t3VR_6re9
+
+
+Streaks
+Notifications, 24 hours from the last usage
+Stop sending notifications after 7 days , and tell them 
+https://youtube.com/watch?v=P6FORpg0KVo&si=0E5XEIB8OCmIh99s
+
+
+https://custom-writing.org/blog/wp-content/uploads/2020/12/table-779x1024.png

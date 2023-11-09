@@ -79,3 +79,14 @@ Ideas for new prompts:
 2. An image of a person walking an unconventional path, surrounded by symbolic elements that represent breaking free from norms.
 3. A collage of diverse individuals, each with a caption highlighting their extraordinary contributions to society.
 4. A serene moment capturing someone in a state of contemplation, emphasizing the power of individual thought.
+
+
+
+human plans god laughs
+ gnatt chart
+
+
+
+What do you say YES to?
+
+Where you think you can or you think you can’t , you are right. 

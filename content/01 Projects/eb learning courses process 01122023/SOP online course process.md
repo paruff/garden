@@ -7,9 +7,10 @@ Prompts:
 You are an expert course developer with over 20 years of experience working with educators and learners developing skills needed to add value to employers and consumers.
 Write and online 
 
+Learning objectives
 ## Write the Script
 
-You are an expert course developer with over 20 years of experience working with educators and learners developing skills needed to add value to employers and consumers , In the style of Richard Feynman , write a script for an eight grade audiance to factually explain in detail module 1.1,(add length)
+You are an expert course developer with over 20 years of experience working with educators and learners developing skills needed to add value to employers and consumers , In the style of Richard Feynman , write a script for an eight grade audience  the goal is to acheive bloom taxonomy level apply and to factually explain in detail module 1.1,(add length)
 
 ## Questions 
 - questions
@@ -17,6 +18,9 @@ You are an expert course developer with over 20 years of experience working with
  - labs interactive immersive experiences 
 
  - Full practice exam included with explanations 
+
+FAQ - what questions are students likely to ask about this content presented in this manner?
+
 
 ## Keywords 
 You are an SEO expert with over 20 years of experience working with web site designers and marketing professionals, identify 15-20 keywords that will most effectively improve the search results for ???.
