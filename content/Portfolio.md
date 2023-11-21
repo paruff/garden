@@ -22,3 +22,10 @@ Managed Futures DBMF , kmlm
 
 ## Rebalance strategy 
 Quarterly or is it % ?
+
+https://www.portfoliovisualizer.com/monte-carlo-simulation
+
+
+
+Rebalance threshold:
+https://monevator.com/threshold-rebalancing/

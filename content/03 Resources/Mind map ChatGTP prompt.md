@@ -1,3 +1,8 @@
+
+Prompt Used: 
+Create a mindmap of this process. 
+List the topics as central idea, main branches, and subbranches Also output the same mindmap in raw markdown format for copying.
+
 Create a comprehensive mind map for a digital transformation for AI in customer support for a bank, covering key areas such as strategic planning, business analysis, problem-solving, project management, change management, client relationship building, and professional development. Include relevant subtopics, tools, and methodologies to guide the consultants in effectively assisting their clients to achieve business growth and success. Please provide a code box with Markdown language
 
 #mindmap

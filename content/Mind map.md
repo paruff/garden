@@ -1,19 +1,24 @@
 
 
+Tools/Apps
+
+| Name | Cost |  Presentation | Sharing | Import | Export | Rating |
+| ---------- | --------- | --------- | --------- |--------- | --------- | --------- |
+| [Ayoa](https://app.ayoa.com/) | $9/12 | ? | | .imx |
+| [Coggle](https://coggle.it/) | $ 5/8 | manual | | .mm , text | .mm,  text |
+| [Freeplane](https://docs.freeplane.org/) | free |  | | | |
+| [gitmind](https://.gitmind.com/) | free |  | | | | 3.4 |
+| [iThoughts](https://www.toketaware.com/)  | 50  | ! | | all | | 5 |
+| [Mindmanager](https://www.mindmanager.com) | 90/190 year |  | | | 4 |
+| [Mindmeister](https://www.mindmeister.com) | 6/10/15 mon |  | | |
+| Mindmup | 3 mon |  | |  | |
+| [NovaMind](https://www.novamind.com/)| 6 mon | ? | |  | | crashes :-(|
+| [WiseMapping](https://www.wisemapping.com/) | Free OS | ? | | mm, md , wmxl, svg|
+| [Xmind](xmind.works) |  | X Pitch  | | | | 4.7 |
 
 
-| Name | Cost |  Presentation |Import | Export |
-| ---------- | --------- | --------- | --------- |--------- |
-| [Ayoa](https://app.ayoa.com/) | $9/12 | ? | .imx |
-| [Coggle](https://coggle.it/) | $ 5/8 | | .mm , text | .mm,  text |
-| [Freeplane](https://docs.freeplane.org/) |  |  | |
-| Mindmup |  |  | |
-| [WiseMapping](https://www.wisemapping.com/)) |  |  | |
-| [xmind]() |  | X Pitch  | |
-
-
-https://www.mindmeister.com
-
+File formats:
+.mm 
 
 [List of mind map software](https://en.wikipedia.org/wiki/List_of_concept-_and_mind-mapping_software)
 
@@ -29,13 +34,9 @@ https://zapier.com/blog/best-mind-mapping-software/
 https://app.mindmup.com/
 
 -   [Coggle](https://zapier.com/blog/best-mind-mapping-software/#coggle) for mind map beginners and occasional use
-    
 -   [MindMeister](https://zapier.com/blog/best-mind-mapping-software/#mindmeister) for collaborating on a mind map with a team
-    
 -   [Ayoa](https://zapier.com/blog/best-mind-mapping-software/#ayoa) for a modern approach to mind mapping
-    
 -   [MindNode](https://zapier.com/blog/best-mind-mapping-software/#mindnode) for Apple users
-    
 -   [XMind 2022](https://zapier.com/blog/best-mind-mapping-software/#xmind) for personal brainstorming
 
 A classic - 

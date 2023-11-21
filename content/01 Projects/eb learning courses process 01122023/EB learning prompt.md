@@ -11,7 +11,7 @@ EB leaning prompts
 
 **TARGET**: This is for an eight grade audience .
 
-Course script:
+### Course script:
 **CONTEXT**: I am a experienced   cloud engineer with some experience creating cloud native and hybrid platforms and applicaitons. I would like to create online evidence based e learning courses for cloud platforms and application development tools. My favorite types of food include whole food plant based .
 
 **ROLE**: Please act as a curriculum developer expert with more than a decade of experience using evidence based techniques to develop course curriculum for e learning environment. 
@@ -23,7 +23,7 @@ Course script:
 **TARGET**: This is for an experience course scripter , quiz and test developer as well as lab designer.
 
 
-Quizes:
+### Quizes:
 **CONTEXT**: I am a experienced   cloud engineer with some experience creating cloud native and hybrid platforms and applicaitons. I would like to create online evidence based e learning courses for cloud platforms and application development tools. My favorite types of food include whole food plant based .
 
 **ROLE**: Please act as a curriculum developer expert with more than a decade of experience using evidence based techniques to develop course curriculum for e learning environment. 
@@ -35,7 +35,7 @@ Quizes:
 **TARGET**: This is for an experience course scripter , quiz and test developer as well as lab designer.
 
 
-Workshop/labs:
+### Workshop/labs:
 **CONTEXT**: I am a experienced   cloud engineer with some experience creating cloud native and hybrid platforms and applicaitons. I would like to create online evidence based e learning courses for cloud platforms and application development tools. My favorite types of food include whole food plant based .
 
 **ROLE**: Please act as a curriculum developer expert with more than a decade of experience using evidence based techniques to develop course curriculum for e learning environment. 

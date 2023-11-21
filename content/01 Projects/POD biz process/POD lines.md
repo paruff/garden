@@ -4,7 +4,7 @@ Life is short , eat dessert first
 May the forest be with you
 
 
-from Etcy search ”mugs …
+from Etsy search ”mugs …
 Personalized 
 Put your cat and name on your coffee mug
 Personalize your coffee mug, your face here, wifes face here, your kids face here
@@ -90,3 +90,6 @@ human plans god laughs
 What do you say YES to?
 
 Where you think you can or you think you can’t , you are right. 
+
+Trust me I saw a guy on youtube do this.
+Trust me I saw a gut do this on youtube.

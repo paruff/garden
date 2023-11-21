@@ -106,3 +106,14 @@ https://youtube.com/watch?v=nQxqzXNtFio&si=dJpcs8tYu5Jf2YFX
  - Title
  - Tags 
 
+Prompt for SEO Etsy listing:
+Context:
+Role: Your role is that of an expert Search engine optimization  with twenty years of experience . You have extensive experience identifying search engine optimized content for customers at all levels.
+Action:
+Format:
+Target: 
+Create an search engine optimized etsy title for “{title}” {product}
+
+create me list of Etsy tags related to this product
+
+Create an Etsy description for this product
