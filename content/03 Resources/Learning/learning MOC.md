@@ -61,7 +61,7 @@ https://visible-learning.org/2023/01/visible-learning-the-sequel-2023/
 
 https://www.visiblelearningmetax.com/
 
-### [[Blooms taxonomy]]
+### [[03 Resources/Learning/Blooms taxonomy]]
 https://youtube.com/watch?v=q7lY-FytO3U&si=mGocRruK83LyIyAj
 
 6. Create

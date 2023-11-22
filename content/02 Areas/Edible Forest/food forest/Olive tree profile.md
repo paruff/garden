@@ -90,3 +90,8 @@ References:
 
 Tags:
 #olivetrees #pruning 
+
+#walnut walnut guild ?
+
+
+https://youtube.com/watch?v=SR08FShDKkw&si=wxAb1iFg5PBr-TIL
