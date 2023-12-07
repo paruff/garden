@@ -97,3 +97,19 @@ You are an SEO expert with over 20 years of experience working with web site des
 
 A low number of courses on Udemy with $2500 per month for top sells.
 https://boto3.amazonaws.com/v1/documentation/api/latest/index.html
+
+42 be study tips
+https://youtube.com/watch?v=ZWt2y-ryoOo&si=RIFgSze4TUTn3mwB
+
+#study
+
+#microlearning
+
+https://link.springer.com/article/10.1007/s11042-020-09523-z
+
+https://youtube.com/watch?v=ArBS88h1r2Q&si=jJsRhXmxJkBcSSly
+https://elevenlabs.io/pricing
+
+
+#wordmark #search 
+https://tmsearch.uspto.gov/bin/gate.exe?f=tess&state=4801:mmklvl.1.1

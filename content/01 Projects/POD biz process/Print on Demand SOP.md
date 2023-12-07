@@ -1,14 +1,36 @@
 
 
+Persona
+Problem /JTBD
+Demand
 ### Process/checklist:
-1. Niche
-2. Create  - Write me 10 copyright and trademark free puns and funny sayings t-shirt slogans about {sub niche}
+1. Niche - prompt: context: I am starting a print on demand etsy store. Role: you an seo and marketing expert with 20 years o experience finding and identifying profitable niches in the online marketplace. Action: research, identify profitable niches for print on demand stores at etsy. Format: print a table of niches and the numbers used to identify them as profitable. 
+2. Create  - prompt: context: I am starting an etsy print on demand store. role: you are an marketing expert. Write me 10 copyright and trademark free puns and funny sayings t-shirt slogans about {sub niche}
 3. Optimize  - 
+	1. Prompt: Context: I am starting an etsy print on demand store. Role: Your role is that of an expert Search engine optimization with twenty years of experience . You have extensive experience identifying search engine optimised content for customers at all levels. action:create an etsy title , description and keywords for "{quote}" {product} to maximize purchases on etsy.
+	2. 
+	3. Create an search engine optimized etsy title for “Get knit done after coffee” a mug
+	4. context: I am starting an etsy print on demand store. role: you are an seo expert. create an etsy title and description for "{quote}" {product} to maximize purchases.
 4. Publish - 
-5. Monitor
+5. Monitor - 
 6. Analysis
 7. Feedback
 
+
+open the shop on etsy:
+Prompt: Context: I am starting an etsy print on demand store. Role: Your role is that of an expert Search engine optimization with twenty years of experience . You have extensive experience identifying search engine optimised content for customers at all levels. action:create an etsy owner profile that assures users/buyers of our creative skills and ability to deliver their purchases.
+
+[niche] = nurses
+[platform] = etsy
+[product] = mug
+[style] = funny
+
+context: I am starting an [platform] print on demand store. role: you are an marketing and search engine optimization expert with 20 years of experience. action: Write me 10 copyright and trademark free [style] sayings [product] slogans about [niche]. These are the most likely to be purchased.
+
+[quote] = Keep Calm and Listen To Your Teacher
+[product] = mug
+[platform] = etsy
+Context: I am starting an [platform] print on demand store. Role: Your role is that of an expert Search engine optimization with twenty years of experience . You have extensive experience identifying search engine optimised content for customers at all levels. action:create an [platform] title, description and keywords for "[quote]" [product] to maximize purchases on [platform].
 
 ### Keywords
 ### Images
@@ -153,3 +175,21 @@ Ideas for new prompts:
 2. An image of a person walking an unconventional path, surrounded by symbolic elements that represent breaking free from norms.
 3. A collage of diverse individuals, each with a caption highlighting their extraordinary contributions to society.
 4. A serene moment capturing someone in a state of contemplation, emphasizing the power of individual thought.
+
+
+etsy Stores:
+IkersonLTD -  Font , colored letters
+
+context: I am starting a print on demand etsy store. Role: you an seo and marketing expert with 20 years o experience finding and identifying profitable niches in the online marketplace. Action: Create the contents for an about page for my Etsy store to reassure customers.  
+
+
+Mock ups:
+
+
+#mockup #figma
+
+
+
+https://youtube.com/watch?v=jSSou6mWVRQ&si=u-gABcsFxOhQwfyA
+
+print white on dark colors FEFFA baby power
