@@ -45,7 +45,8 @@ Any change to this investment policy statement will require a 6 month waiting pe
 
 Notes:
 
-
+[Boglehead ](https://www.bogleheads.org/wiki/Investment_policy_statement)
+[New retirement IPS](https://www.newretirement.com/retirement/investment-policy-statement/)
 ## Portfolio
 Large Cap Growth 30%
 Small Cap Value 30%

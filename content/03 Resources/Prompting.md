@@ -102,3 +102,5 @@ Please continue this article by writing 400+ words for, “Section III. _Sectio
 Please continue this article by writing 400+ words for, “Section VI. _Section 4 header_.” In this section, please include a link to the following article:  Here is a summary of the article to be referenced in this section.
 
 Please finish this article by writing 300+ words for, “Section V. Conclusion”
+
+https://www.linkedin.com/posts/kasrajh_chatgpt-ai-productivityboost-activity-7148176152669462528-8LfL?utm_source=share&utm_medium=member_ios

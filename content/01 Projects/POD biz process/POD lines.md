@@ -28,6 +28,10 @@ Where you think you can or you think you can’t , you are right.
 Trust me I saw a guy on youtube do this.
 Trust me I saw a gut do this on youtube.
 
+Mind the gap
+
+Just do it Sit
+
 
 
 

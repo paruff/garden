@@ -87,5 +87,17 @@ Notifications, 24 hours from the last usage
 Stop sending notifications after 7 days , and tell them 
 https://youtube.com/watch?v=P6FORpg0KVo&si=0E5XEIB8OCmIh99s
 
-
+Blooms taxonomy 
 https://custom-writing.org/blog/wp-content/uploads/2020/12/table-779x1024.png
+
+Gagnes events of learning
+https://www.simplimba.com/gagnes-9-events-theory/
+[ Microlearning through the Lens of Gagne’s Nine Events of Instruction: A Qualitative Study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9631595/)
+[EFFECTIVENESS OF INSTRUCTIONAL STRATEGIES BASED ON GAGNE'S INSTRUCTIONAL DESIGN (ID) IN IMPROVING THINKING SKILLS OF SECONDARY SCHOOL STUDENTS](https://files.eric.ed.gov/fulltext/EJ1102322.pdf)
+
+Multimedia Richard Mayer 12 principles
+
+https://youtube.com/watch?v=d9WpfWriY7A&si=YTYL4o6RGWlb0xvt
+
+
+[Paper evidence for Mayer 10 principles of ](https://psycnet.apa.org/doiLanding?doi=10.1037%2F0003-066X.63.8.760)
