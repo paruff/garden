@@ -2,7 +2,7 @@
 https://youtu.be/onJCKcPUg7I?si=qQ59_trjJSJQYmJH
 
 
-Create 
+1. Create 
 
 [platform] = etsy
 [product] = tshirt
@@ -12,7 +12,7 @@ Create
 
 prompt: context: I am starting an [platform] print on demand store. role: you are an marketing And search engine optimization expert with 20 years of experience in the print on demand market. Action: Write me 10 copyright and trademark free  sayings on [product] in the [style] style about [Subject]. Format:  to fit on a [product]. Target: [audience] Of the students of [Subject]
 
-Create listings
+2. Create listings
 
 [platform] = etsy
 [product] = tshirt
@@ -24,7 +24,7 @@ Context: I am starting an  [platform] print on demand store. Role: Your role is 
 
 
 Cross check in erank.com
-### Design creation
+3. ###  Design creation
 
 
 ### Mockups 

@@ -38,6 +38,18 @@ Rebalance based on a threshold of 20% from desired check quarterly.
 ### Withdrawal strategy 
 Withdrawal rate of 4 - 4.5% done quarterly
 
+
+
+Here is a video of how to adjust our withdrawal rate https://youtu.be/kPc8ng3sYB0?si=VsxC5tdNtM9fioXe
+
+Using this sheet https://docs.google.com/spreadsheets/d/1eKInmsjjIEmYB59LWf15W90y6tOy6Hp-gwG28_Va6W4/edit
+
+
+
+Use the CAPE as a long term adjustment for the 
+
+
+
 Ignore short-term noise. Don't pay attention to headlines. Stay the course. Keep the long-term view. 
 
 Any change to this investment policy statement will require a 6 month waiting period.
