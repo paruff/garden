@@ -3,8 +3,18 @@
 ### Summary:
 
 
-HearD about a book today  "Making it Stick" and the three main points / practices are self quizzing, interwoven , space repetition
+The goal is for someone say a student to identify a knowledge base , and then be exposed to the new ideas and concepts and ba able to remember those idea, knowledge , concepts and apply them to create new ideas kinda like a phd . 
 
+Challenges:
+ - biases
+ - 
+ - forgetting curve
+
+Teaching techniques:
+ - analogy
+ - visual mind maps
+
+Heard about a book today  "Making it Stick" and the three main points / practices are self quizzing, interwoven , space repetition
 
  - spaced practice - 
  - interleaving - 
@@ -35,8 +45,7 @@ https://en.wikipedia.org/wiki/Learning_by_teaching#Plastic_platypus_learning
 
 https://en.wikipedia.org/wiki/Pomodoro_Technique
 
-
-https://youtu.be/oTuEvnfgQcY
+[binaural beats](https://youtu.be/oTuEvnfgQcY)
 
 
 https://en.wikipedia.org/wiki/Testing_effect
@@ -94,6 +103,17 @@ Gagnes events of learning
 https://www.simplimba.com/gagnes-9-events-theory/
 [ Microlearning through the Lens of Gagne’s Nine Events of Instruction: A Qualitative Study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9631595/)
 [EFFECTIVENESS OF INSTRUCTIONAL STRATEGIES BASED ON GAGNE'S INSTRUCTIONAL DESIGN (ID) IN IMPROVING THINKING SKILLS OF SECONDARY SCHOOL STUDENTS](https://files.eric.ed.gov/fulltext/EJ1102322.pdf)
+
+1. Gain attention
+2. Inform learners of objectives
+3. Stimulate recall of prior learning
+4. Present content
+5. provide learning guidance
+6. Elicit performance (practice)
+7. Provide feedback
+8. Assess performance
+9. Enchance retention and transfer to the job
+10. 
 
 Multimedia Richard Mayer 12 principles
 

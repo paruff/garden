@@ -28,8 +28,7 @@ Role: You are an expert instructional designer with over 20 years of experience 
 - Create interim assessments that match each enabling learning objective. Create a rubric for each assessment if it is required.
     
 - Create a summative assessment that matches the terminal learning objective.
-- 
-	Create an outline mind map of all objectives in markdown for in a file for export.
+- Create an outline mind map of all objectives in markdown for in a file for export.
 
 
 - [section] = 

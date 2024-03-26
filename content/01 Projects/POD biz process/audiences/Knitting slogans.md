@@ -57,3 +57,11 @@ Absolutely, let's keep the creative knitting vibes flowing:
 18. "Knit, purl, repeat: The mantra of a beautifully sarcastic life."
 19. "Not all those who knit are lost, some are just enjoying the journey."
 20. "Yarn is my love language, sarcasm is my second."
+
+
+Design ideas
+Llama 
+Alpaca 
+Sheep with yarn line to wool ball to sweater 
+
+Ewe 

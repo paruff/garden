@@ -111,3 +111,6 @@ https://librivox.org/search?primary_key=52&search_category=language&search_page=
 [Anki setting from Reddit ](https://www.reddit.com/r/LearnJapanese/comments/6ry1zq/enhance_your_flashcarding_experience_dramatically/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)
 
 https://blog.fluent-forever.com/learning-grammar-without-translation/
+
+
+https://www.theintrepidguide.com/best-movies-on-disney-plus-for-learning-languages/
