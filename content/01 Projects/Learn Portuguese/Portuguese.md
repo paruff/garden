@@ -114,3 +114,14 @@ https://blog.fluent-forever.com/learning-grammar-without-translation/
 
 
 https://www.theintrepidguide.com/best-movies-on-disney-plus-for-learning-languages/
+
+https://duoplanet.com/duolingo-portuguese-review/
+
+**Duolingo’s Portuguese course has a total of 4 units**, broken down into a total of **91 skills**. That means there are **455 crown levels in Duolingo’s Portuguese course** (or **546** if you include the **[legendary levels](https://duoplanet.com/duolingo-legendary-levels-get-to-know-the-purple-crowns/)**).
+
+
+
+4 units
+ -> skills 
+  -> crown levels (up to 6)
+   -> lessons 

@@ -1,7 +1,7 @@
 EB leaning prompts
 
 ## Course development:
-**CONTEXT**: I am a experienced   cloud engineer with some experience creating cloud native and hybrid platforms and applicaitons. I would like to create online evidence based e learning courses for cloud platforms and application development tools. My favorite types of food include whole food plant based .
+**CONTEXT**: I am a experienced   cloud engineer with some experience creating cloud native and hybrid platforms and applicaitons. I would like to create online evidence based e learning courses for cloud platforms and application development tools. 
 
 **ROLE**: Please act as a curriculum developer expert with more than a decade of experience using evidence based techniques to develop course curriculum for e learning environment. 
 
@@ -12,7 +12,7 @@ EB leaning prompts
 **TARGET**: This is for an eight grade audience .
 
 ### Course script:
-**CONTEXT**: I am a experienced   cloud engineer with some experience creating cloud native and hybrid platforms and applicaitons. I would like to create online evidence based e learning courses for cloud platforms and application development tools. My favorite types of food include whole food plant based .
+**CONTEXT**: I am a experienced   cloud engineer with some experience creating cloud native and hybrid platforms and applications. I would like to create online evidence based e learning courses for cloud platforms and application development tools.
 
 **ROLE**: Please act as a curriculum developer expert with more than a decade of experience using evidence based techniques to develop course curriculum for e learning environment. 
 

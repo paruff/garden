@@ -6,20 +6,21 @@ https://youtu.be/onJCKcPUg7I?si=qQ59_trjJSJQYmJH
 
 [platform] = etsy
 [product] = tshirt
-[Subject] = teachers
+[Subject] = science teachers
 [audience] = parents
-[style] = clever
+[style] = optimistic 
 
-prompt: context: I am starting an [platform] print on demand store. role: you are an marketing And search engine optimization expert with 20 years of experience in the print on demand market. Action: Write me 10 copyright and trademark free  sayings on [product] in the [style] style about [Subject]. Format:  to fit on a [product]. Target: [audience] Of the students of [Subject]
+prompt: context: I am starting an [platform] print on demand store. role: you are an marketing And search engine optimisation expert with 20 years of experience in the print on demand market. Action: Write me 10 copyright and trademark free  sayings on [product] in the [style] style about [Subject]. Format:  to fit on a [product]. Target: [audience] Of the students of [Subject]
 
 2. Create listings
 
 [platform] = etsy
 [product] = tshirt
 [quote] = Yarn therapy: It's cheaper than a shrink and more colorful.
-Context: I am starting an  [platform] print on demand store. Role: Your role is that of an expert Search engine optimization with twenty years of experience . You have extensive experience identifying search engine optimised content for [platform]. action:create an [platform] title , description and keywords for "[quote]" [product] to maximize purchases on [platform].
+Prompt:
+Context: I am starting an  [platform] print on demand store. Role: Your role is that of an expert Search engine optimisation with twenty years of experience . You have extensive experience identifying search engine optimised content for [platform]. action:create an [platform] title , description and keywords for "[quote]" [product] to maximize purchases on [platform].
 
-Context: I am starting an  [platform] print on demand store. Role: Your role is that of an expert Search engine optimization with twenty years of experience . You have extensive experience identifying search engine optimised content for customers at all levels. action:create an [platform]  13 long tail keywords 20 character in length max. for "[quote]" [product] to maximize purchases on [platform].
+Context: I am starting an  [platform] print on demand store. Role: Your role is that of an expert Search engine optimisation with twenty years of experience . You have extensive experience identifying search engine optimised content for customers at all levels. action:create an [platform]  13 long tail keywords 20 character in length max. for "[quote]" [product] to maximize purchases on [platform].
 
 
 
