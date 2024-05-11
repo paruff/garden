@@ -14,14 +14,11 @@ kanban-plugin: basic
 ## To Do
 
 - [ ] prune walnut
-- [x] prune figs ✅ 2023-12-27
-- [x] prune olives ✅ 2023-12-27
 - [ ] water, pear, apple and peach
 
 
 ## Doing
 
-- [ ] prune plums
 
 
 ## Waiting
@@ -31,6 +28,9 @@ kanban-plugin: basic
 ## Done
 
 - [x] Tasks? ✅ 2023-07-26
+- [x] prune olives ✅ 2023-12-27
+- [x] prune plums ✅ 2024-05-01
+- [x] prune figs ✅ 2023-12-27
 
 
 

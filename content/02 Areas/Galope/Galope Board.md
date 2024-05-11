@@ -6,9 +6,13 @@ kanban-plugin: basic
 
 ## Backlog
 
+- [ ] Water gardens
 - [x] Master bathroom ✅ 2023-07-26
 - [ ] washer grey water
 - [ ] Master bath grey water
+- [ ] plant strawberries
+- [ ] plant raspberries
+- [ ] Install watering system storage garden
 
 
 ## To Do

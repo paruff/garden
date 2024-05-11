@@ -6,7 +6,7 @@ kanban-plugin: basic
 
 ## Todo
 
-- [ ] practice HCTA3 labs/tutorials
+- [x] practice HCTA3 labs/tutorials ✅ 2024-05-01
 
 
 ## Waiting
@@ -15,13 +15,13 @@ kanban-plugin: basic
 
 ## In Progress
 
-- [ ] Study HCTA3 cards
-- [ ] View HCTA 3 course
+- [x] Study HCTA3 cards ✅ 2024-05-01
+- [x] View HCTA 3 course ✅ 2024-05-01
 
 
 ## Completed
 
-- [ ] Create Mind Map of HCTA
+- [x] Create Mind Map of HCTA ✅ 2024-05-01
 
 
 ## Discarded

@@ -19,3 +19,10 @@ https://www.gocurrycracker.com/never-pay-taxes-by-moving-abroad/
 December tax prep process
 
 https://www.gocurrycracker.com/7-minute-taxes/
+
+
+https://pt.icalculator.com/income-tax-rates/2023.html
+
+https://pt.icalculator.com/income-tax-rates/2023.html
+https://pt.icalculator.com/salary-calculator/annual/2023.html
+

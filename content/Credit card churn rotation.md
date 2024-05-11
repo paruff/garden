@@ -1,9 +1,9 @@
 
 ## Phil
 
-### Capital One Venture
-
-### Lufthansa Miles and More
+### Capital One Venture X
+### Pathfinder (penfed) - lounge access
+Capital One Savor One
 
 ### LATAM Airlines World Elite
 
@@ -13,15 +13,12 @@
 
 ### Aeroplan
 
-### Pathfinder (penfed)
+
 
 
 ## Belen
 ### Chase Sapphire Perferred  
 
-### Lufthansa Miles and More
-
 ### Ink Business Unlimited
 
-LATAM Airlines World Elite
 

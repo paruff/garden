@@ -1,10 +1,10 @@
 ---
+create: 
 exercise: 
-food:
-meditation:
-planned:
-slept:
-portuguese :
+meditation: 
+planned: 
+portuguese: 
+yoga:
 ---
 
 # {{date:DD-MM-YY | dddd}}
@@ -20,13 +20,6 @@ due before {{date:YYYY-MM-DD}}
 ```tasks
 not done
 due on {{date:YYYY-MM-DD}}
-```
-
-### Due in the next two weeks
-```tasks
-not done
-due after {{date:YYYY-MM-DD}}
-due before {{date+14d:YYYY-MM-DD}}
 ```
 
 ### No due date
