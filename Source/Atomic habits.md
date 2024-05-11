@@ -1,0 +1,14 @@
+---
+---
+
+-   **Title:** "Atomic habits"
+-   **Source Type:** book
+-   **Author:** James Clear
+-   **Note Type:** 
+-   **Link:** 
+-   **Status:** #ToRead #reading #complete
+-   **Recommendation:**
+-   **Motive:**
+-   **Rediscovery:** 
+-   **Date Created:** 13-11-22 | Sunday
+- 
