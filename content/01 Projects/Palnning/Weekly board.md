@@ -21,7 +21,6 @@ kanban-plugin: basic
 
 ## Waiting
 
-- [ ] order stuff to Dov’s
 
 
 ## Done
@@ -29,6 +28,7 @@ kanban-plugin: basic
 **Complete**
 - [ ] build shelves #galope
 - [x] comanche status
+- [x] order stuff to Dov’s
 
 
 

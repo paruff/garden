@@ -121,3 +121,14 @@ https://youtube.com/watch?v=d9WpfWriY7A&si=YTYL4o6RGWlb0xvt
 
 
 [Paper evidence for Mayer 10 principles of ](https://psycnet.apa.org/doiLanding?doi=10.1037%2F0003-066X.63.8.760)
+
+
+Science papers
+https://cognitiveresearchjournal.springeropen.com/articles/10.1186/s41235-017-0087-y
+https://www.learningscientists.org/
+
+
+https://www.supermemo.com/en/blog/twenty-rules-of-formulating-knowledge
+
+
+Prior knowledge has a link to the analogy/metaphore that looks like schema or a mind map we learned in the past.

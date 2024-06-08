@@ -104,3 +104,40 @@ Please continue this article by writing 400+ words for, “Section VI. _Section
 Please finish this article by writing 300+ words for, “Section V. Conclusion”
 
 https://www.linkedin.com/posts/kasrajh_chatgpt-ai-productivityboost-activity-7148176152669462528-8LfL?utm_source=share&utm_medium=member_ios
+
+
+List from [# 26 prompting tricks to improve LLMs](https://www.superannotate.com/blog/llm-prompting-tricks)
+Ensure that your answer is unbiased and doesn’t rely on stereotypes
+
+From now on, I would like you to ask me questions until it has enough information to provide the needed output.
+
+From now on, whenever I ask a question suggest a better version of the question and ask me if I want to use it instead.
+I’m going to tip you $200 for a better solution
+
+Explain to me as if I’m a beginner in [field].
+
+ The audience is
+	
+
+
+https://arxiv.org/abs/2302.11382
+
+
+From Coursera course 
+### Persona pattern
+ - prompt: Act as a [ROLE]
+### Question  Refinement patter
+- Prompt: - From now on, whenever I ask a question, suggest a better version of the question and ask me if I would like to use it instead
+
+### Cognitive verifier pattern
+ - Prompt:  when you're asked a question, follow these rules:
+Generate a number of additional questions that would help more accurately answer the question. Combine the answers to the individual questions to produce the final answer to the overall question.
+
+### Audience persona pattern
+ - prompt: Assume I am a [audience]
+### Flipped interaction pattern
+ - prompt: - I would like you to ask me questions to achieve [X]
+- You should ask questions until condition [Y] is met or to achieve this goal (alternatively, forever)
+- (Optional) ask me the questions one at a time, two at a time, ask me the first question, etc.
+### Few shot prompting pattern
+ - prompt: 

@@ -113,3 +113,10 @@ https://elevenlabs.io/pricing
 
 #wordmark #search 
 https://tmsearch.uspto.gov/bin/gate.exe?f=tess&state=4801:mmklvl.1.1
+
+Evidenced based neuroscience ted talk
+
+https://youtube.com/watch?v=kKvK2foOTJM&si=mdpPkz2bIoZVJ4kN
+
+Anki prompt 
+https://writingmate.ai/blog/creating-anki-flashcards-with-chatgpt-a-step-by-step-guide

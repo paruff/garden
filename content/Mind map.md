@@ -41,3 +41,19 @@ https://app.mindmup.com/
 
 A classic - 
 Freemind
+
+Tips:
+
+https://youtube.com/watch?v=NqxUExCZJ5Y&si=BLCYUAz9T4pMlRR2
+Mind mirror
+
+
+GRIND
+https://youtube.com/watch?v=5zT_2aBP6vM&si=d7zUEMea570Cyeok
+
+Group
+Reflective
+Interconnected
+Non-verbal
+Directional
+Emphasize 

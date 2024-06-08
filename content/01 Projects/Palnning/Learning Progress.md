@@ -1,13 +1,11 @@
 ---
-
 kanban-plugin: basic
-
 ---
 
 ## To do
 
+- [ ] Doughnut economics
 - [ ] Permaculture Orchard Mastercalss #youtube
-- [ ] Neuroscience of enlightenment
 - [ ] Transcending the Levels of Consciousness #audible
 - [ ] Think Like a Stoic
 - [ ] Dream Yoga
@@ -24,8 +22,9 @@ kanban-plugin: basic
 
 ## Doing
 
+- [ ] Uncommon sense teaching
+- [ ] Neuroscience of enlightenment
 - [ ] Fooled by randomness
-- [ ] Doughnut economics
 
 
 ## Waiting
@@ -44,3 +43,5 @@ kanban-plugin: basic
 {"kanban-plugin":"basic"}
 ```
 %%
+
+https://youtube.com/watch?v=eOUcRYHukwk&si=DtP50waHXGwJMsQd

@@ -6,26 +6,24 @@ kanban-plugin: basic
 
 ## To do
 
+- [ ] Planning
 - [ ] Meditation
+- [ ] Portuguese a/p
 - [ ] Hang tools #galope
 - [ ] Discover energy rating tax rebate
-- [ ] Chip/mulch trees
 
 
 ## Doing
 
-- [ ] Planning
-- [ ] Portuguese a/p
+- [ ] Mind map core UM
 - [ ] Yoga
 - [ ] Cut half parking trees #galope
 - [ ] Prune park trees #galope
-- [ ] Phone test
-- [ ] Mind map core UM
-- [ ] UM HPP workshop
 
 
 ## Waiting
 
+- [ ] Chip/mulch trees
 
 
 ## Done
@@ -37,7 +35,9 @@ kanban-plugin: basic
 - [ ] install screens #galope
 - [ ] Plan garden #nautilus
 - [ ] Plant kale
+- [x] Phone test
 - [x] Plaza shopping
+- [x] UM HPP workshop
 - [x] Move money
 
 

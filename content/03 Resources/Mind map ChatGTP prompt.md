@@ -30,3 +30,8 @@ Directional
 Emphasied 
 
 
+
+
+https://www.aidare.com/use-chatgpt-to-make-a-mindmap/
+
+https://www.edrawmind.com/article/tony-buzan-biography.html
