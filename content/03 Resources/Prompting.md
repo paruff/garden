@@ -118,10 +118,7 @@ Explain to me as if I’m a beginner in [field].
 
  The audience is
 	
-
-
 https://arxiv.org/abs/2302.11382
-
 
 From Coursera course 
 ### Persona pattern
@@ -141,3 +138,33 @@ Generate a number of additional questions that would help more accurately answer
 - (Optional) ask me the questions one at a time, two at a time, ask me the first question, etc.
 ### Few shot prompting pattern
  - prompt: 
+Chain of thought reasoning pattern
+ - prompt:
+https://arxiv.org/abs/2201.11903
+ReAct prompting:
+ - 
+https://arxiv.org/abs/2210.03629
+
+Template pattern:
+ - prompt: - I am going to provide a template for your output
+- X is my placeholder for content
+- Try to fit the output into one or more of the placeholders that I list
+- Please preserve the formatting and overall template that I provide
+- This is the template: PATTERN with PLACEHOLDERS
+You will need to replace "X" with an appropriate placeholder, such as "CAPITALIZED WORDS" or "<PLACEHOLDER>". You will then need to specify a pattern to fill in, such as "Dear <FULL NAME>" or "NAME, TITLE, COMPANY".
+
+Meta language pattern
+ - When I say X, I mean Y (or would like you to do Y)
+Recipe pattern
+ - I would like to achieve X
+- I know that I need to perform steps A,B,C
+- Provide a complete sequence of steps for me
+- Fill in any missing steps
+- (Optional) Identify any unnecessary steps
+- Example: - I would like to purchase a house. I know that I need to perform steps make an offer and close on the house. Provide a complete sequence of steps for me. Fill in any missing steps.
+Alternative Approaches pattern:
+ - If there are alternative ways to accomplish a task X that I give you, list the best alternate approaches
+- (Optional) compare/contrast the pros and cons of each approach
+- (Optional) include the original way that I asked
+- (Optional) prompt me for which approach I would like to use
+- Example:- For anything that I ask you to write, determine the underlying problem that I am trying to solve and how I am trying to solve it. List at least one alternative approach to solve the problem and compare / contrast the approach with the original approach implied by my request to you.

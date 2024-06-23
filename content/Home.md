@@ -30,16 +30,16 @@ hide backlinks
 	 - [[habits/Meditation tracker|Meditation tracker]]
 	 - [[habits/Portuguese tracker|Portuguese tracker]]
 - Planning
-	- [[01 Projects/Palnning/Daily Progress]]
-	- [[01 Projects/Palnning/Weekly board]]
+	- [[01 Projects/Planning/Daily Progress]]
+	- [[01 Projects/Planning/Weekly board]]
 	- [[02 Areas/Galope/Galope Board|Galope Board]]
 	- [[Mindfulness board]]
-	- [[01 Projects/Palnning/Learning Progress]]
+	- [[01 Projects/Planning/Learning Progress]]
 	- [[01 Projects/POD biz process/POD MOC|POD MOC]]
 	- [[01 Projects/eb learning c process/EB learning prompt|EB learning prompt]]
 	- [[03 Resources/BYPP/Monthly values and vision|Monthly values and vision]]
-	- [[01 Projects/Palnning/Values based organizing]]
-	- [[01 Projects/Palnning/Retirement values]]
+	- [[01 Projects/Planning/Values based organizing]]
+	- [[01 Projects/Planning/Retirement values]]
 
 ## Vault Info
  - Recent updates

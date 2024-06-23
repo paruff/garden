@@ -132,3 +132,5 @@ https://www.supermemo.com/en/blog/twenty-rules-of-formulating-knowledge
 
 
 Prior knowledge has a link to the analogy/metaphore that looks like schema or a mind map we learned in the past.
+
+https://waterbearlearning.com/how-to-use-gagnes-nine-events/
