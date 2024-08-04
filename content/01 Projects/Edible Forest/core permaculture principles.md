@@ -1,6 +1,6 @@
 * Observe & Interact
 * Capture & store energy
-* Obtain a yeild
+* Obtain a yield
 * Apply self-regulation & accept feedback
 * Use & value renewable resource & services
 * Produce no Waste

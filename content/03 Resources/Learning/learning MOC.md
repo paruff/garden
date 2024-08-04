@@ -27,7 +27,7 @@ I had/have been using :
 ### [[Spaced repetition]]
 ### [[Pomodoro]]
 ### Binaural beats 
-### [[Mind map]] Mind maps
+### [[01 Projects/Mind map]] Mind maps
 ### [[03 Resources/Learning/Learning by Teaching]] 
 Examples/labs or tutorials
 

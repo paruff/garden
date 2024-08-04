@@ -20,7 +20,7 @@ hide backlinks
 	- [[03 Resources/Resources MOC|Resources MOC]]
 - Products/boards
 	- [[01 Projects/Learn Portuguese/Portuguese MOC|Portuguese MOC]]
-	- [[01 Projects/eb learning c process/EB learning prompt|EB learning prompt]]
+	- [[01 Projects/eb lllearning process/EB learning prompt|EB learning prompt]]
 	- [[02 Areas/Galope/Galope Board|Galope Board]]
 - Process
 	- [[habits/Habits MOC|Habits MOC]]
@@ -33,10 +33,10 @@ hide backlinks
 	- [[01 Projects/Planning/Daily Progress]]
 	- [[01 Projects/Planning/Weekly board]]
 	- [[02 Areas/Galope/Galope Board|Galope Board]]
-	- [[Mindfulness board]]
+	- [[02 Areas/Mindfulness board]]
 	- [[01 Projects/Planning/Learning Progress]]
-	- [[01 Projects/POD biz process/POD MOC|POD MOC]]
-	- [[01 Projects/eb learning c process/EB learning prompt|EB learning prompt]]
+	- [[02 Areas/POD biz process/POD MOC|POD MOC]]
+	- [[01 Projects/eb lllearning process/EB learning prompt|EB learning prompt]]
 	- [[03 Resources/BYPP/Monthly values and vision|Monthly values and vision]]
 	- [[01 Projects/Planning/Values based organizing]]
 	- [[01 Projects/Planning/Retirement values]]

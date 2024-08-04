@@ -8,11 +8,32 @@ Soil
 
 Compost and Basalt rock dust. rock dust 1 in 5 compost by volume 
 
+### Guilds
+ - [[01 Projects/Edible Forest/food forest/guilds/Lemon tree guild guide]]
+ - [[01 Projects/Edible Forest/food forest/guilds/Orange Tree Guild Guide]]
+ - [[01 Projects/Edible Forest/food forest/guilds/Plum tree guild guide]]
+ - [[01 Projects/Edible Forest/food forest/guilds/Olive tree guild guide]]
+ - [[01 Projects/Edible Forest/food forest/guilds/Fig tree guild guide]]
+ - [[01 Projects/Edible Forest/food forest/guilds/Walnut tree guild guide]]
+ - [[01 Projects/Edible Forest/food forest/guilds/Apple tree guild guide]]
+ - [[01 Projects/Edible Forest/food forest/guilds/Pear tree guild guide]]
+ - [[01 Projects/Edible Forest/food forest/guilds/Quince tree guild guide]]
+ - [[01 Projects/Edible Forest/food forest/guilds/Peach tree guild guide]]
+ - [[01 Projects/Edible Forest/food forest/guilds/Apricot tree guild guide]]
+ - [[01 Projects/Edible Forest/food forest/guilds/Cherry tree guild guide]]
+ - [[01 Projects/Edible Forest/food forest/guilds/Grapefruit tree guild guide]]
+
+
+### Windbreak system
+ [[01 Projects/Edible Forest/food forest/windbreak system/Windbreak design and implementation]]
+ [[01 Projects/Edible Forest/food forest/windbreak system/Nut trees in the north]]
+ 
+ 
 
 # Food Forest
 
 
-[[02 Areas/Edible Forest/food forest/Pruning]] is the order of the day today.
+[[01 Projects/Edible Forest/food forest/Pruning]] is the order of the day today.
 
 Three kinds of cuts
 1. Heading
@@ -64,7 +85,7 @@ Tags:
 
 https://www.fs.usda.gov/nac/
 
-[[02 Areas/Edible Forest/food forest/Transplant]]
+[[01 Projects/Edible Forest/food forest/Transplant]]
 
 https://plants.sc.egov.usda.gov/home
 
@@ -115,7 +136,7 @@ Cover crops:
 
 [[03 Resources/Permaculture Design Course/Permaculture Desing Course]]
 
-[[02 Areas/Edible Forest/Hemp]] as a product?
+[[01 Projects/Edible Forest/Hemp]] as a product?
 
 https://deepgreenpermaculture.com/permaculture/permaculture-design-principles/8-accelerating-succession-and-evolution/
 

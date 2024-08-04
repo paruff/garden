@@ -1,8 +1,8 @@
 
 prompt: context: I am starting a print on demand etsy store. Role: you are an seo and marketing expert with 20 years of experience finding and identifying profitable niches in the online marketplace. Action: research, identify profitable niches for print on demand stores at etsy. Format: print a table of niches and the numbers used to identify them as profitable.
 
-[[01 Projects/POD biz process/audiences/teacher slogans|teacher slogans]]
-[[01 Projects/POD biz process/audiences/Nurses slogans|Nurses ideas]]
+[[02 Areas/POD biz process/audiences/teacher slogans|teacher slogans]]
+[[02 Areas/POD biz process/audiences/Nurses slogans|Nurses ideas]]
 Fishing
 Firefighter
 Dog Apparel
@@ -13,10 +13,10 @@ Yoga Enthusiasts
 Motivational prints/Posters
 Kitchen/Cooking Prints
 
-[[01 Projects/POD biz process/audiences/Knitting slogans|Knitting slogans]]
-[[01 Projects/POD biz process/audiences/Wine enth slogans|Wine enthusist]]
-[[01 Projects/POD biz process/audiences/astrology slogans|astrology slogans]]
-[[01 Projects/POD biz process/audiences/Vegan slogans|Vegan slogans]]
+[[02 Areas/POD biz process/audiences/Knitting slogans|Knitting slogans]]
+[[02 Areas/POD biz process/audiences/Wine enth slogans|Wine enthusist]]
+[[02 Areas/POD biz process/audiences/astrology slogans|astrology slogans]]
+[[02 Areas/POD biz process/audiences/Vegan slogans|Vegan slogans]]
 
 
 
