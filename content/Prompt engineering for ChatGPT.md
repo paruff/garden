@@ -106,3 +106,17 @@ Jules White, Sam Hays, Quchen Fu, Jesse Spencer-Smith, Douglas C. Schmidt
 [https://arxiv.org/abs/2303.07839](https://arxiv.org/abs/2303.07839)
 
 # [Follow Jules White's Research](https://www.magnum.io/people/jules.html)
+
+
+**Instructions**: Anywhere that you see a placeholder like "<Fill in a List of Concepts>", please provide the requested information in the prompt. For example, if it says "<Fill in a List of Concepts>", you can replace the placeholder with something like "basic arithmetic operations".
+
+"Prompt:' indicates what you would type into ChatGPT.
+
+**Example Prompts:**
+
+Prompt: Create examples of <Fill in a List of Concepts> that are expressed in terms of <List of Student Interests>
+
+Prompt: Create examples of <Concept 1 and Concept 2> that are expressed in terms of <List of Student Interests> and help explain the difference between the two concepts.
+
+Prompt: Create examples of <Concept 1> where there are special circumstances or exceptions to the rule.
+

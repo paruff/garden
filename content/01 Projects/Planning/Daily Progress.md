@@ -17,8 +17,8 @@ kanban-plugin: basic
 
 - [ ] Mind map core UM
 - [ ] Yoga
-- [ ] Cut half parking trees #galope
-- [ ] Prune park trees #galope
+- [x] Cut half parking trees #galope ✅ 2024-07-07
+- [x] Prune park trees #galope ✅ 2024-07-07
 
 
 ## Waiting
@@ -29,12 +29,12 @@ kanban-plugin: basic
 ## Done
 
 **Complete**
-- [ ] Deploy coffee
-- [ ] PERMAV lesson https://www.itsmental.co.uk/products/the-wellbeing-hub-free-version
+- [x] Deploy coffee ✅ 2024-07-07
+- [x] PERMAV lesson https://www.itsmental.co.uk/products/the-wellbeing-hub-free-version ✅ 2024-07-07
 - [ ] UM Core
-- [ ] install screens #galope
+- [x] install screens #galope ✅ 2024-07-07
 - [ ] Plan garden #nautilus
-- [ ] Plant kale
+- [x] Plant kale ✅ 2024-07-07
 - [x] Phone test
 - [x] Plaza shopping
 - [x] UM HPP workshop

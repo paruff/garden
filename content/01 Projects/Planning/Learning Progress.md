@@ -4,7 +4,7 @@ kanban-plugin: basic
 
 ## To do
 
-- [ ] Doughnut economics
+- [x] Doughnut economics ✅ 2024-07-07
 - [ ] Permaculture Orchard Mastercalss #youtube
 - [ ] Transcending the Levels of Consciousness #audible
 - [ ] Think Like a Stoic
@@ -24,7 +24,7 @@ kanban-plugin: basic
 
 - [ ] Uncommon sense teaching
 - [ ] Neuroscience of enlightenment
-- [ ] Fooled by randomness
+- [x] Fooled by randomness ✅ 2024-07-07
 
 
 ## Waiting

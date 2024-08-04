@@ -26,3 +26,6 @@ https://pt.icalculator.com/income-tax-rates/2023.html
 https://pt.icalculator.com/income-tax-rates/2023.html
 https://pt.icalculator.com/salary-calculator/annual/2023.html
 
+
+
+https://www.tytle.io/how-it-works

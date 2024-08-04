@@ -1,4 +1,12 @@
 
+
+Ensure that your answer is unbiased and doesn’t rely on stereotypes
+
+From now on, I would like you to ask me questions until it has enough information to provide the needed output.
+
+From now on, whenever I ask a question suggest a better version of the question and ask me if I want to use it instead.
+
+
 Fórmula 
 
 Task

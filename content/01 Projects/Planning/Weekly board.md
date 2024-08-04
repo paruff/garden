@@ -6,12 +6,12 @@ kanban-plugin: basic
 
 ## To do
 
-- [ ] PT taxes
+- [x] PT taxes ✅ 2024-07-07
 - [ ] budget Review
-- [ ] aivios - > chase
+- [x] aivios - > chase ✅ 2024-07-07
 - [ ] hang photos #galope
 - [ ] build chairs #galope
-- [ ] renew residence cards
+- [x] renew residence cards ✅ 2024-07-07
 - [ ] easyJet account correction
 
 
@@ -26,7 +26,7 @@ kanban-plugin: basic
 ## Done
 
 **Complete**
-- [ ] build shelves #galope
+- [x] build shelves #galope ✅ 2024-07-07
 - [x] comanche status
 - [x] order stuff to Dov’s
 

@@ -8,7 +8,7 @@ kanban-plugin: basic
 
 - [ ] Water gardens
 - [x] Master bathroom ✅ 2023-07-26
-- [ ] washer grey water
+- [x] washer grey water ✅ 2024-07-07
 - [ ] Master bath grey water
 - [ ] plant strawberries
 - [ ] plant raspberries
