@@ -7,9 +7,9 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+       provider: 'google', tagId: 'G-VD7MCBNBC4' }: use Google Analytics;
     },
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "paruff.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
