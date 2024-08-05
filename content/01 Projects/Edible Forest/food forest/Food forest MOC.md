@@ -1,4 +1,10 @@
 
+
+```dataview
+list from [[]] and !outgoing([[]])
+```
+
+
 Soil
 
  - Compost

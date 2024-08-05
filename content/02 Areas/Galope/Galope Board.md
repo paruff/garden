@@ -1,6 +1,6 @@
 ---
 
-kanban-plugin: basic
+kanban-plugin: board
 
 ---
 
@@ -8,8 +8,6 @@ kanban-plugin: basic
 
 - [ ] Water gardens
 - [x] Master bathroom ✅ 2023-07-26
-- [x] washer grey water ✅ 2024-07-07
-- [ ] Master bath grey water
 - [ ] plant strawberries
 - [ ] plant raspberries
 - [ ] Install watering system storage garden
@@ -35,6 +33,6 @@ kanban-plugin: basic
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic"}
+{"kanban-plugin":"board"}
 ```
 %%
