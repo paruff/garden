@@ -2,7 +2,7 @@
 up:
   - "[[Efforts]]"
 created: 2023-08-19
-rank: "1"
+rank: "0"
 ---
 
 - The **situation** is that my START HERE series on Youtube was a flagship of success. 

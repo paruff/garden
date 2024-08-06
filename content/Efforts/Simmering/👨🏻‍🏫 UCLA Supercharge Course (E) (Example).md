@@ -1,9 +1,9 @@
 ---
 up:
   - "[[👨🏻‍🏫 LYT Workshops (OE) (Example)]]"
-related: []
+related: 
 created: 2023-06-30
-rank: "4"
+rank: "0"
 ---
 
 ## Live Sessions

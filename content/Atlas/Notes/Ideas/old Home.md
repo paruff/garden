@@ -1,17 +1,12 @@
 ---
-cssclass: dashboard
-banner: "https://images.unsplash.com/photo-1461173890990-f128607276ff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80"
+cssclasses: 
+banner: https://images.unsplash.com/photo-1461173890990-f128607276ff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80
 banner_x: 0.5
 banner_y: 0.479
+up:
+  - "[[Library]]"
+related: []
 ---
-
-## Today `=link(dateformat(date(today), "yyyy-MM-dd"))`
-```tasks
-not done
-due before tomorrow
-short mode
-hide backlinks
-```
 ## Main 
 
  - Base
@@ -24,7 +19,7 @@ hide backlinks
 	- [[02 Areas/Galope/Galope Board|Galope Board]]
 - Process
 	- [[habits/Habits MOC|Habits MOC]]
-	- [[02 Areas/Mindfullness/Unifed Mindfulness|Unifed Mindfulness]]
+	- [[Unifed Mindfulness|Unifed Mindfulness]]
  - Report/Measure
 	 - [[habits/Exercise tracker|Exercise tracker]]
 	 - [[habits/Meditation tracker|Meditation tracker]]

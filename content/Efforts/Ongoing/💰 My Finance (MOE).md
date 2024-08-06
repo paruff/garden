@@ -8,7 +8,7 @@ tags:
 rank: "3"
 ---
 Keep tabs on your personal finances. 
-Fuzzy areas like [[🌼 My Health (OE) (Example)]] and [[💰 My Finance (OE) (Example)]] are both maps and efforts.
+Fuzzy areas like [[🌼 My Health (MOE)]] and [[💰 My Finance (MOE)]] are both maps and efforts.
 Here are some areas to consider...
 
 - In
@@ -20,7 +20,7 @@ Here are some areas to consider...
 	- [[My Auto]]
 	- [[My Bills]]
 - Big Out
-	- [[💸 My Taxes 2023 (OE) (Example)]]
+	- [[💸 My Taxes 2023 (MOE)]]
 - Accounts
 	- [[My Accounts]]
 

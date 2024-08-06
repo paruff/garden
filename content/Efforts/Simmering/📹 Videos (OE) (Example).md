@@ -2,7 +2,7 @@
 up:
   - "[[Efforts]]"
 created: 2020-01-01
-rank: "4"
+rank: "0"
 tags:
   - map
 ---

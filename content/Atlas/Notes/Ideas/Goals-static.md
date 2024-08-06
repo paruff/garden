@@ -8,7 +8,7 @@ weight: 0
 
 I have a few goals:
 
-[[02 Areas/Mindfullness/Meditation]] , well I guess that is a practice to support mindfulness , which is in support of emotional health and [[02 Areas/Mindfullness/enlightenment]]
+[[Meditation]] , well I guess that is a practice to support mindfulness , which is in support of emotional health and [[enlightenment]]
 
 [[01 Projects/Learn Portuguese/Portuguese]] language at least to A2 level as that is required for citizenship in portugal. That is clearly an external goal.
 

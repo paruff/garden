@@ -1,9 +1,9 @@
 ---
 up:
   - "[[🌌 Ideaverse Kit (OE) (Example)]]"
-related: []
+related: 
 created: 2023-08-19
-rank: "5"
+rank: "0"
 ---
 
 The Ideaverse for Obsidian can be both efficient and evocative. 

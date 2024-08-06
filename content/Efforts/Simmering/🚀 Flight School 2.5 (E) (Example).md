@@ -1,9 +1,9 @@
 ---
 up:
   - "[[🚀 Flight School (OE) (Example)]]"
-related: []
+related: 
 created: 2023-07-01
-rank: "2"
+rank: "0"
 ---
 
 Deliver an update to Obsidian Flight School to existing customers.

@@ -2,7 +2,7 @@
 up:
   - "[[Efforts]]"
 created: 2023-08-19
-rank: "5"
+rank: "0"
 ---
 
 The Ideaverse Kit carries a responsibility to people trying to be better with their thoughts.

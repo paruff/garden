@@ -1,24 +1,22 @@
 ---
 up:
   - "[[Home]]"
-related: []
+related: 
 created: 2010-01-01
 tags:
   - map
-rank: "2"
+rank: "4"
 ---
 This is for areas of physical health, wellness, training, and exercise. 
-Fuzzy areas like [[🌼 My Health (OE) (Example)]] and [[💰 My Finance (OE) (Example)]] are both maps and efforts.
+
 
 - Overall
-	- [[Physical Training MOC]]
-	- [[Nutrition MOC]] 
+	- [[Meditation MOC]]
+	- [[Meditation tracker]] 
 	- [[Sleep MOC]]
--  Exercises
+-  techniques
 	- [[Exercises MOC]] 
 	- [[Breathing Exercises MOC]]
-- Fuzzy Favorites
-	- [[Hormesis MOC]]
 	- [[Posture MOC]]
 - Logs
 	- [[My Medical]] 

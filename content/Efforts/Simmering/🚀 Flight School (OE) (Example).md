@@ -2,7 +2,7 @@
 up:
   - "[[Efforts]]"
 created: 2023-08-19
-rank: "2"
+rank: "0"
 ---
 Obsidian Flight School helps people think faster (and better) with Obsidian.
 
