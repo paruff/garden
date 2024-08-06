@@ -1,1 +1,0 @@
-https://waterbearlearning.com/mayers-principles-multimedia-learning/
