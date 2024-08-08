@@ -9,4 +9,4 @@ podcast::
 
 # Masanobu Fukuoka
 
-Books  [[Source/The One Straw Revolution]]
+Books  [[The One Straw Revolution]]

@@ -1,7 +1,7 @@
 
 
 ### What is Permaculture
-Permaculture is a philosophy of working with, rather than against nature; of rotracted & and thoughtful observation rather than protracted & thoughtless labour; & of looking at plants & animals in all their functions, rather than treating any area as a single-product system. - [[People/Bill Mollison]].
+Permaculture is a philosophy of working with, rather than against nature; of rotracted & and thoughtful observation rather than protracted & thoughtless labour; & of looking at plants & animals in all their functions, rather than treating any area as a single-product system. - [[Bill Mollison]].
 
 * 100 hours of thought and 1 hour of work.
 * Work is a failure in design
@@ -75,10 +75,10 @@ Mature ecosystem
 never selling anything off your land that can't walk off your land. - farmers saying(wisdom)
 sick of killing things that want to live and trying to keep alive things that want to die. -farmers saying
 
-"Everything gardens" - [[People/Bill Mollison]]
+"Everything gardens" - [[Bill Mollison]]
 
 
-"The ultimate goal of farming is not the growing of crops, but the cultivation and perfection of humans beings" - [[People/Masanobu Fukuoka]]
+"The ultimate goal of farming is not the growing of crops, but the cultivation and perfection of humans beings" - [[Masanobu Fukuoka]]
 
 Do weeds exist?
 Tags

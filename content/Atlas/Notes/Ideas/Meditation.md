@@ -1,3 +1,10 @@
+---
+up: 
+related: 
+tags:
+  - mindfulness
+  - meditation
+---
 #  Meditation
 tags:: #status/note
 dates:: 222022-10-21  
@@ -37,10 +44,6 @@ https://www.mindfulnessassociation.net/latest-news/free-daily-online-meditation/
 Tags:
 #meditation #mindfulness 
 Resources:
-
-
 [Mindfullness in Plain English](https://mindfulness-in-plain-english.github.io/)
-
 [Shinzen Young site](https://www.shinzen.org/resources/)
-
 https://happyrubin.com/spirituality/loving-kindness-meditation/

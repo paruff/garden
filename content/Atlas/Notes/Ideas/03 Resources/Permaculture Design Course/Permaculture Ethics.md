@@ -1,7 +1,7 @@
 
  A people without an agreed-upon common basis to their actions is neither a community nor a nation. A people with a common ethic is a nation wherever they live.
  Thus, the place of habitation is secondary to a shared belief in the establishment of a harmonious world community.
- Just as we can select a global range of plants for a garden, we can select from all extant ethics and beliefs those elements that we see to be sustainable, useful, and beneficial to life and to our community. - [[People/Bill Mollison]]
+ Just as we can select a global range of plants for a garden, we can select from all extant ethics and beliefs those elements that we see to be sustainable, useful, and beneficial to life and to our community. - [[Bill Mollison]]
 
 Self ->Family -> Society -> All living things
 

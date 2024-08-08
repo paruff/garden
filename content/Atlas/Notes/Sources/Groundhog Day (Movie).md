@@ -9,9 +9,6 @@ type: "[[Movie]]"
 URL: https://www.imdb.com/title/tt0107048
 ---
 
-> [!NOTE]+ Notes on this note
-> This is a sanitized version of my actual note. 
-> - Content and links have been removed.
 
 ---
 

@@ -1,3 +1,10 @@
+---
+up: 
+related: 
+tags:
+  - mindfulness
+  - meditation
+---
 
 
 ![https://i.redd.it/ssnt40dvgeix.jpg](https://i.redd.it/ssnt40dvgeix.jpg)

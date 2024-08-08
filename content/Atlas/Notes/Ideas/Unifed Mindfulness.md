@@ -1,3 +1,8 @@
+---
+up:
+  - "[[Home]]"
+related:
+---
 
 
 resources:

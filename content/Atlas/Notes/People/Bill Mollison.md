@@ -1,3 +1,9 @@
+---
+up:
+  - "[[People Map]]"
+related: 
+type: People
+---
 [[People/People MOC]]
 tags:: #status/person #RGP/guest/todo
 dates:: 222022-11-05

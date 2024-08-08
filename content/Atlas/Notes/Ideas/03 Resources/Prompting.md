@@ -1,3 +1,8 @@
+---
+up:
+  - "[[Home]]"
+related:
+---
 
 
 Ensure that your answer is unbiased and doesn’t rely on stereotypes
@@ -176,3 +181,6 @@ Alternative Approaches pattern:
 - (Optional) include the original way that I asked
 - (Optional) prompt me for which approach I would like to use
 - Example:- For anything that I ask you to write, determine the underlying problem that I am trying to solve and how I am trying to solve it. List at least one alternative approach to solve the problem and compare / contrast the approach with the original approach implied by my request to you.
+
+Reference:
+https://docs.anthropic.com/en/prompt-library/library

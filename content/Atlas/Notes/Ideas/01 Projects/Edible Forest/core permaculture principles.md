@@ -16,7 +16,7 @@
 Permaculture as a desing system contains nothing new.
 It arranges what was always there in a different way, so that it works to converserve energy or to generate more energy than it consues.
 
-What is novel, and often overlooked , ia that any system of total common-sense design for human communities is revolutionary! - [[People/Bill Mollison]]
+What is novel, and often overlooked , ia that any system of total common-sense design for human communities is revolutionary! - [[Bill Mollison]]
 
 
 ---
