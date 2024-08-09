@@ -22,7 +22,7 @@ I love sharing what I am doing so I would like to share these efforts to that en
 [[publish]] my garden
 
 
-Most of my goals require [[03 Resources/Learning/learning MOC]]
+Most of my goals require [[learning MOC]]
 
 
 ### Projects/Products:

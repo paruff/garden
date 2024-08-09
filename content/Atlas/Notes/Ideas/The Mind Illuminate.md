@@ -44,8 +44,3 @@ https://i.redd.it/0tcu2peevbz11.png
 
 https://www.ryandelaney.co/book-notes/the-mind-illuminated-culadasa-john-yates
 
-
--   May all beings be free from suffering.
--   May all beings be free from ill will.
--   May all beings be filled with loving-kindness.
--   May all beings be truly happy.

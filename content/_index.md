@@ -5,12 +5,19 @@ tags:
 weight: 0
 ---
 
-Start at [[Home]] and the search funtion might be a useful option also.
+Start at this launchpad and the search funtion might be a useful also check out the Backlinks and the Graph View on the right.
 
-[[Atlas/Maps/library]]
-[[Atlas/Maps/People Map]]
-[[Atlas/Maps/Source Map]]
+Maps:
+[[Food forest MOC]]
+[[learning MOC]]
+[[People Map]]
+[[Portuguese MOC]]
+[[Prompting MOC]]
+[[Sources Map]]
 
+Efforts:
+[[👨🏻‍🏫 EB eLearning Course (MOE)]]
+[[📚Prompt engineering advanced MOE]]
 
 Wondering if these will work 
 

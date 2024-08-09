@@ -6,6 +6,8 @@ related:
 ### Courses:
 [[Prompt engineering for ChatGPT]]
 [[📚Prompt engineering advanced MOE]]
+[[TCEPFT prompt formula]]
+
 
 Examples:
 [[Stock prompts]]
@@ -18,7 +20,15 @@ Examples:
 [[ETSY description prompt]]
 
 
-TOC
+Contents
+ - [[#Starter prompt]]
+ - [[#TCEPFT]]
+ - [[#CRAFT and priming]]
+ - [[#**TRIP PLANNING PROMPT **]]
+ - [[#Here's the ChatGPT prompt from the video]]
+ - [[#Persona pattern]]
+ - [[#Question Refinement patter]]
+### Starter prompt
 
 Ensure that your answer is unbiased and doesn’t rely on stereotypes
 
@@ -26,20 +36,6 @@ From now on, I would like you to ask me questions until it has enough informatio
 
 From now on, whenever I ask a question suggest a better version of the question and ask me if I want to use it instead.
 
-
-Fórmula 
-
-Task
-Context
-Exemplars
-Persona
-Format
-Tone
-
-
-![[Assets/IMG_0649.png]]
-
-![[Assets/IMG_0648.png]]
 
 
 https://learnprompting.org/docs/intro
@@ -49,10 +45,10 @@ Reducing hallucination
 https://www.makeuseof.com/how-to-reduce-ai-hallucination/
 
 
-CRAFT and priming
+### CRAFT and priming
 https://lawton.ai/how-to-ai/
 
-**TRIP PLANNING PROMPT:** 
+### **TRIP PLANNING PROMPT:** 
 
 **CONTEXT**: I am looking to take a trip during the following timeframe [INSERT TIMEFRAME] to a new international city. I want this trip to be unique and include once in a lifetime experiences. I live in [INSERT CITY] and have a budget of around [INSERT BUDGET]. I would like the destination country to be less than [INSERT FLIGHT TIME CONSTRAINT] hours of flying time from my home. My plan is to visit for [INSERT TRIP DURATION]. 
 
@@ -151,7 +147,7 @@ https://arxiv.org/abs/2302.11382
 From Coursera course 
 ### Persona pattern
  - prompt: Act as a [ROLE]
-### Question  Refinement patter
+### Question  Refinement pattern
 - Prompt: - From now on, whenever I ask a question, suggest a better version of the question and ask me if I would like to use it instead
 
 ### Cognitive verifier pattern
@@ -173,7 +169,7 @@ ReAct prompting:
  - 
 https://arxiv.org/abs/2210.03629
 
-Template pattern:
+### Template pattern:
  - prompt: - I am going to provide a template for your output
 - X is my placeholder for content
 - Try to fit the output into one or more of the placeholders that I list
@@ -181,7 +177,7 @@ Template pattern:
 - This is the template: PATTERN with PLACEHOLDERS
 You will need to replace "X" with an appropriate placeholder, such as "CAPITALIZED WORDS" or "<PLACEHOLDER>". You will then need to specify a pattern to fill in, such as "Dear <FULL NAME>" or "NAME, TITLE, COMPANY".
 
-Meta language pattern
+### Meta language pattern
  - When I say X, I mean Y (or would like you to do Y)
 Recipe pattern
  - I would like to achieve X
