@@ -1,5 +1,7 @@
 ---
 up:
+  - "[[Home]]"
+related:
 ---
 
 # Learning
@@ -39,7 +41,7 @@ Tags:
 #learning #pomodoro bin
 https://csuglobal.edu/blog/increasing-cognitive-function-binaural-beats
 
-Resources:
+
 Make it Stick - Book
 [Visual Learning info graphic](https://visible-learning.org/2013/02/infographic-john-hattie-visible-learing/)
 [Visible learning research results](https://www.visiblelearningmetax.com/)
@@ -74,6 +76,8 @@ https://visible-learning.org/2023/01/visible-learning-the-sequel-2023/
 
 https://www.visiblelearningmetax.com/
 
+### Blooms taxonomy 
+https://custom-writing.org/blog/wp-content/uploads/2020/12/table-779x1024.png
 ### [[03 Resources/Learning/Blooms taxonomy]]
 https://youtube.com/watch?v=q7lY-FytO3U&si=mGocRruK83LyIyAj
 
@@ -100,10 +104,9 @@ Notifications, 24 hours from the last usage
 Stop sending notifications after 7 days , and tell them 
 https://youtube.com/watch?v=P6FORpg0KVo&si=0E5XEIB8OCmIh99s
 
-Blooms taxonomy 
-https://custom-writing.org/blog/wp-content/uploads/2020/12/table-779x1024.png
 
-Gagnes events of learning
+
+### Gagnes events of learning
 https://www.simplimba.com/gagnes-9-events-theory/
 [ Microlearning through the Lens of Gagne’s Nine Events of Instruction: A Qualitative Study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9631595/)
 [EFFECTIVENESS OF INSTRUCTIONAL STRATEGIES BASED ON GAGNE'S INSTRUCTIONAL DESIGN (ID) IN IMPROVING THINKING SKILLS OF SECONDARY SCHOOL STUDENTS](https://files.eric.ed.gov/fulltext/EJ1102322.pdf)
@@ -119,10 +122,11 @@ https://www.simplimba.com/gagnes-9-events-theory/
 9. Enchance retention and transfer to the job
 10. 
 
-Multimedia Richard Mayer 12 principles
+### Multimedia Richard Mayer 12 principles
 
 https://youtube.com/watch?v=d9WpfWriY7A&si=YTYL4o6RGWlb0xvt
-
+12 Multimedia instructional principles, Richard Mayer’s
+https://youtube.com/watch?v=R6yUsUkePVI&si=-9NZQgHJbu4HOcPK
 
 [Paper evidence for Mayer 10 principles of ](https://psycnet.apa.org/doiLanding?doi=10.1037%2F0003-066X.63.8.760)
 
@@ -140,5 +144,3 @@ Prior knowledge has a link to the analogy/metaphore that looks like schema or a 
 https://waterbearlearning.com/how-to-use-gagnes-nine-events/
 
 References:
-12 Multimedia instructional principles, Richard Mayer’s
-https://youtube.com/watch?v=R6yUsUkePVI&si=-9NZQgHJbu4HOcPK

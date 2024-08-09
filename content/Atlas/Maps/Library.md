@@ -44,7 +44,7 @@ Navigate your library of maps with a classification system made specifically for
 > [!Puzzle]+ ### 200 - Philosophy, Psychology ; Spirituality, Religion
 > Is there no limit to this section? I use [[Philosophy MOC (kit)]] as the big note and then point to things like: [[Stoicism MOC]], [[Confucianism MOC]], [[Religion MOC]], [[Taoism MOC]], and whatever else comes up.
 > 
-> [[Psychology MOC (kit)]] is similar but different enough to have its own space.
+> [[Psychology MOC]] is similar but different enough to have its own space.
 
 > [!User]+ ### 300 - Social Sciences
 > *The study of human society and of individual relationships in and to society.*

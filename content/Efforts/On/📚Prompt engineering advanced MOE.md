@@ -6,7 +6,7 @@ created: 2024-08-08
 rank: "3"
 ---
 
-[[Prompting]]
+[[Prompting MOC]]
 ()
 
 Patterns:

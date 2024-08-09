@@ -1,11 +1,11 @@
 ---
 up:
-  - "[[Psychology MOC (kit)]]"
+  - "[[Psychology MOC]]"
 related: []
 created: 2020-06-01
 tags:
   - concept
-  - note/develop🍃
+  - "note/develop🍃"
 ---
 Usually a sub-concept of [[Framing]], Priming refers to things that affect our mental context. 
 

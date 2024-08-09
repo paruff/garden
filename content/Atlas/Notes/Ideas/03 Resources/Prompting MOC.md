@@ -3,7 +3,22 @@ up:
   - "[[Home]]"
 related:
 ---
+### Courses:
+[[Prompt engineering for ChatGPT]]
+[[📚Prompt engineering advanced MOE]]
 
+Examples:
+[[Stock prompts]]
+[[EB learning prompt]]
+[[Portugues prompts]]
+[[Dale 3 prompt]]
+[[Meal Planning prompt]]
+[[Mind map ChatGTP prompt]]
+[[Resume revision prompt]]
+[[ETSY description prompt]]
+
+
+TOC
 
 Ensure that your answer is unbiased and doesn’t rely on stereotypes
 

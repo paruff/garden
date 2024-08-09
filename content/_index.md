@@ -7,7 +7,10 @@ weight: 0
 
 Start at [[Home]] and the search funtion might be a useful option also.
 
-[[library]]
+[[Atlas/Maps/library]]
+[[Atlas/Maps/People Map]]
+[[Atlas/Maps/Source Map]]
+
 
 Wondering if these will work 
 

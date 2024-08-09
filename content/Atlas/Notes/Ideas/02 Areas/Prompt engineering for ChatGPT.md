@@ -2,6 +2,17 @@
 
 
 From Coursera course 
+## TOC
+  
+# Contents 
+- [Persona Pattern](persona-pattern) 
+ - [Question refinement pattern](question-refinement-pattern)
+ -  [Cognitive verifier pattern](cognitive-verifier-pattern) 
+ -  [Audience persona pattern](audience-persona-pattern) 
+ -  [[#Flipped interaction pattern]] 
+ -  [[#Few shot prompting pattern]]
+- [bottom](this-is-a-test-header)
+
 ### Persona pattern
  - prompt: Act as a [ROLE]
 ### Question  Refinement pattern
@@ -119,4 +130,8 @@ Prompt: Create examples of <Fill in a List of Concepts> that are expressed in te
 Prompt: Create examples of <Concept 1 and Concept 2> that are expressed in terms of <List of Student Interests> and help explain the difference between the two concepts.
 
 Prompt: Create examples of <Concept 1> where there are special circumstances or exceptions to the rule.
+
+
+### This is a test header.
+
 
