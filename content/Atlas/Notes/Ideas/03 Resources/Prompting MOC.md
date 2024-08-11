@@ -195,3 +195,5 @@ Alternative Approaches pattern:
 
 Reference:
 https://docs.anthropic.com/en/prompt-library/library
+
+https://www.tomsguide.com/ai/copilot/7-prompts-to-get-the-most-out-of-microsoft-copilot

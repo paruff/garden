@@ -6,9 +6,9 @@ weight: 0
 ---
 
 Start at this launchpad or:
- - search  
- - Backlinks
- - Graph View 
+ - search  <-
+ - Backlinks ->
+ - Graph View -> 
 
 Maps:
  - [[Food forest MOC]]
@@ -17,12 +17,12 @@ Maps:
  - [[Portuguese MOC]]
  - [[Prompting MOC]]
  - [[Sources Map]]
+ - [[Travel MOC]]
+ - [[The 5SP Process]]
 
 Efforts:
  - [[👨🏻‍🏫 EB eLearning Course (MOE)]]
  - [[📚Prompt engineering advanced MOE]]
-
-Wondering if these will work 
 
 The old map of the garden/forest:
 [[Atlas/Notes/Ideas/01 Projects/Projects MOC]]

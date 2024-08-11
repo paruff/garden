@@ -109,3 +109,117 @@ Would you like me to elaborate on any specific part of this guild design or disc
 (4) What to Plant Under a Walnut Tree | PermacultureFX. https://permaculturefx.com/what-to-plant-under-a-walnut-tree/.
 (5) Design of Guilds – IPEN. https://www.ipenpermaculture.org/resource/advanced-design-guilds/.
 (6) Getty Images. https://www.gettyimages.com/detail/photo/senior-gardener-gardening-in-his-permaculture-royalty-free-image/1181508899.
+
+
+### AI Prompt
+Context: I am implementing a permaculture food forest on my one hectare in Gaeiras, PT, in a Mediterranean climate. There is Garden and orchard with  citrus trees , 4 plum trees , a couple fig trees, a walnut tree, a couple peach trees, a couple pear trees, two quince trees. 
+
+Role: You are a certified s permaculture designer with twenty five years of experience and one of the world experts a designing permaculture food forests.
+
+
+Action: create a complete guild for fig  trees.
+Format:
+
+Target: The audience is a retired information technology professional looking to reduce there impact on the world while growing health food for myself, my wife and our friends.
+
+Certainly, I'd be happy to provide recommendations on integrating the walnut tree guild into your existing orchard. This integration process is crucial for creating a cohesive and productive permaculture system.
+
+
+
+
+
+# Integrating Walnut Guild into Existing Orchard
+
+## 1. Site Assessment
+
+- Map existing trees: citrus, plums, figs, peaches, pears, quinces
+- Note sun exposure, water flow, and microclimates
+- Identify potential companion planting opportunities
+
+## 2. Spacing and Layout
+
+- Ensure 10-15 meters between walnut and other fruit trees
+- Create transition zones between guilds
+- Use contour lines for water management
+
+## 3. Phased Implementation
+
+### Phase 1: Understory and Ground Cover
+- Plant comfrey, yarrow, and white clover around existing trees
+- Introduce lavender and rosemary as insect attractors
+
+### Phase 2: Complementary Trees and Shrubs
+- Add elderberry and hazelnut in open spaces
+- Plant bay laurel as a transitional element
+
+### Phase 3: Herbaceous Layer and Vines
+- Interplant chicory, fennel, and mint
+- Install trellises for grapes and kiwi
+
+## 4. Soil Improvement
+
+- Use sheet mulching to prepare new planting areas
+- Incorporate compost and organic matter
+- Plant alfalfa and white clover for nitrogen fixation
+
+## 5. Water Management
+
+- Install swales on contour to capture and distribute water
+- Use mulch to retain soil moisture
+- Consider drip irrigation for establishment phase
+
+## 6. Existing Tree Integration
+
+- Citrus: Underplant with creeping thyme and strawberries
+- Plums: Pair with comfrey and borage
+- Figs: Combine with lavender and rosemary
+- Peaches: Interplant with yarrow and chicory
+- Pears: Pair with fennel and mint
+- Quinces: Combine with comfrey and white clover
+
+## 7. Pathways and Access
+
+- Create meandering paths using wood chips or gravel
+- Ensure easy access for harvesting and maintenance
+
+## 8. Vertical Stacking
+
+- Use grape vines on existing sturdy trees
+- Install trellises between trees for kiwi and other climbers
+
+## 9. Pest Management
+
+- Introduce tansy and wormwood strategically throughout the orchard
+- Create diverse habitats to encourage natural predators
+
+## 10. Continuous Observation and Adaptation
+
+- Monitor plant interactions and adjust as needed
+- Observe water flow and adjust swales if necessary
+- Keep detailed records of successes and challenges
+
+
+
+Now, let me explain some key points about integrating the walnut guild into your existing orchard:
+
+1. **Gradual Implementation**: Start by introducing elements of the walnut guild around your existing trees. This phased approach allows you to observe and adapt as you go.
+
+2. **Spacing Considerations**: Walnuts produce juglone, which can inhibit the growth of some plants. Maintain adequate spacing (10-15 meters) between your walnut and other fruit trees. Use this space to create transition zones with plants that are juglone-tolerant.
+
+3. **Complementary Planting**: Utilize the understory and ground cover plants from the walnut guild (like comfrey, yarrow, and white clover) around your existing fruit trees. This helps improve soil health throughout the orchard.
+
+4. **Water Management**: Implement water-saving techniques like swales and heavy mulching across the entire orchard. This is particularly important in your Mediterranean climate.
+
+5. **Vertical Stacking**: Use the vertical space in your existing orchard by introducing climbing plants like grapes or kiwi on trellises between trees.
+
+6. **Soil Improvement**: The soil-building plants in the walnut guild (like comfrey and nitrogen-fixers) can benefit your entire orchard. Spread these throughout your system.
+
+7. **Pest Management**: Introduce pest-deterrent plants from the walnut guild (like tansy and wormwood) strategically throughout the orchard to create a holistic pest management system.
+
+8. **Pollinator Support**: Distribute pollinator-attracting plants (like lavender, rosemary, and borage) throughout the orchard to support all your fruit trees.
+
+9. **Access and Pathways**: As you integrate new elements, ensure you maintain easy access for harvesting and maintenance. Create meandering paths that allow you to observe and interact with different parts of your food forest.
+
+10. **Microclimates**: Use the different layers of the walnut guild to create beneficial microclimates for your existing trees. For example, taller shrubs can provide wind protection for more delicate fruit trees.
+
+Remember, the key to successful integration is observation and adaptation. Start small, observe the interactions, and gradually expand the system. This approach allows you to learn from your specific site conditions and adjust your design accordingly.

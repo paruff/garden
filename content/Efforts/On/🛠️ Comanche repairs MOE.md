@@ -17,6 +17,9 @@ Tasks:
 - [x] Contact RAM regarding limited work planned
 - [ ] Update tenant regarding progress
 - [ ] Follow up with RAM on the documents and schedule
+- [ ] Sign RAM intro 
+- [ ] Sign work authorization 
+- [ ] 
 
 
 Repair/renovations:

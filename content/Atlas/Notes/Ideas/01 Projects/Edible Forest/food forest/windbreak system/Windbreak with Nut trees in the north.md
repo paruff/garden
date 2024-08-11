@@ -1,3 +1,12 @@
+---
+up: []
+related:
+  - "[[Add]]"
+  - "[[Relate]]"
+created: 2024-08-10
+tags:
+---
+
 Your idea to plant nut trees on the north side of the property is actually a clever approach to maximizing space and creating a natural height gradient in your food forest. This can indeed work well with our windbreak system, but it will require some adjustments to our original plan. Let's explore how we can integrate nut trees into the windbreak system.
 
 
