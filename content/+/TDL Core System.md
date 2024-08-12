@@ -10,7 +10,9 @@
 		- **Each day**: Review my weekly and value plan, as well as the calendar. Build a time block plan.
 	- Have a clear **shutdown** process with shutdown complete ritual. Make an intentional plan for post shutdown.
 	- Practice **full capture** of tasks. This include processing of tasks during shutdown process
-- 💪 **Discipline:** Established habits or metrics, like exercise, to support a structured life.
+- 💪 **Discipline:** Established habits or metrics, like exercise, to support a structured life. Body, Mind and heart
+
+[[Deep Life Stack 2.0]]
 
 
 Calendar is 

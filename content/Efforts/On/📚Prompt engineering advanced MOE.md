@@ -8,7 +8,7 @@ rank: "3"
 
 [[Prompting MOC]]
 ()
-
+[[Advanced Prompt Engineering for Everyone]]
 Patterns:
  - Solve a problem
 	 - give me five ways to solve any problem that I give you and compare and contrast them. Ask me for the first problem.
