@@ -15,7 +15,9 @@ Design order, maybe
  - [[Triades]]
  - 
 
-[[Food Forest course]]
+design
+
+
 [[Pruning MOC]]
 [[Guilds]]
 
@@ -86,3 +88,12 @@ https://treeyopermacultureedu.com/chapter-2-3-or-the-11-design-principles-from-t
 ### Miyazaki method 
 https://www.sugiproject.com/blog/the-miyawaki-method-for-creating-forests
 https://earthwatch.org.uk/program/tiny-forest/
+
+Resources:
+[[Food Forest course]]
+[[Edible Forest Gardens v1 vision and theory]]
+[[Plant Partners]]
+[[How to Grow Perennial Vegetables]]
+[[Fruit Trees for Every Garden]]
+[[Growing Fruit Trees]]
+[[Tending the Wild]]

@@ -11,7 +11,15 @@ From Coursera course
  -  [Audience persona pattern](audience-persona-pattern) 
  -  [[#Flipped interaction pattern]] 
  -  [[#Few shot prompting pattern]]
-- [bottom](this-is-a-test-header)
+- [[#Template pattern]]
+- [[#Meta language pattern]]
+- [[#Recipe pattern]]
+- [[#Alternative Approaches pattern]]
+- [[#Outline expander pattern]]
+- [[#Menu prompt pattern]]
+- [[#Fact check list pattern]]
+- [[#Tail Generation pattern]]
+- [[#Semantic Filter pattern]]
 
 ### Persona pattern
  - prompt: Act as a [ROLE]
@@ -37,7 +45,7 @@ ReAct prompting:
  - 
 https://arxiv.org/abs/2210.03629
 
-Template pattern:
+### Template pattern:
  - prompt: - I am going to provide a template for your output
 - X is my placeholder for content
 - Try to fit the output into one or more of the placeholders that I list
@@ -45,23 +53,23 @@ Template pattern:
 - This is the template: PATTERN with PLACEHOLDERS
 You will need to replace "X" with an appropriate placeholder, such as "CAPITALIZED WORDS" or "<PLACEHOLDER>". You will then need to specify a pattern to fill in, such as "Dear <FULL NAME>" or "NAME, TITLE, COMPANY".
 
-Meta language pattern
+### Meta language pattern
  - When I say X, I mean Y (or would like you to do Y)
-Recipe pattern
+###  Recipe pattern
  - I would like to achieve X
 - I know that I need to perform steps A,B,C
 - Provide a complete sequence of steps for me
 - Fill in any missing steps
 - (Optional) Identify any unnecessary steps
 - Example: - I would like to purchase a house. I know that I need to perform steps make an offer and close on the house. Provide a complete sequence of steps for me. Fill in any missing steps.
-Alternative Approaches pattern:
+###  Alternative Approaches pattern:
  - If there are alternative ways to accomplish a task X that I give you, list the best alternate approaches
 - (Optional) compare/contrast the pros and cons of each approach
 - (Optional) include the original way that I asked
 - (Optional) prompt me for which approach I would like to use
 - Example:- For anything that I ask you to write, determine the underlying problem that I am trying to solve and how I am trying to solve it. List at least one alternative approach to solve the problem and compare / contrast the approach with the original approach implied by my request to you.
-
-Outline expander pattern:
+- 
+### Outline expander pattern:
  - Act as an outline expander.
 - Generate a bullet point outline based on the input that I give you and then ask me for which bullet point you should expand on.
 - Create a new outline for the bullet point that I select.
@@ -69,23 +77,23 @@ Outline expander pattern:
 - Ask me for what to outline.
 Examples:
 - Act as an outline expander. Generate a bullet point outline based on the input that I give you and then ask me for which bullet point you should expand on. Each bullet can have at most 3-5 sub bullets. The bullets should be numbered using the pattern [A-Z].[i-v].[* through ****]. Create a new outline for the bullet point that I select. At the end, ask me for what bullet point to expand next. Ask me for what to outline.
-Menu prompt pattern
+### Menu prompt pattern
  - Whenever I type: X, you will do Y.
 - (Optional, provide additional menu items) Whenever I type Z, you will do Q. 
 - At the end, you will ask me for the next action.
 Example:
  -Whenever I type: "add FOOD", you will add FOOD to my grocery list and update my estimated grocery bill. Whenever I type "remove FOOD", you will remove FOOD from my grocery list and update my estimated grocery bill. Whenever I type "save" you will list alternatives to my added FOOD to save money. At the end, you will ask me for the next action. Ask me for the first action.
-Fact check list pattern:
+###  Fact check list pattern:
 - Generate a set of facts that are contained in the output
 - The set of facts should be inserted at POSITION in the output
 - The set of facts should be the fundamental facts that could undermine the veracity of the output if any of them are incorrect
 Example:
 - Whenever you output text, generate a set of facts that are contained in the output. The set of facts should be inserted at the end of the output. The set of facts should be the fundamental facts that could undermine the veracity of the output if any of them are incorrect.
-Tail Generation pattern:
+###  Tail Generation pattern:
  - At the end, repeat Y and/or ask me for X.
 Example:
 -  Act as an outline expander. Generate a bullet point outline based on the input that I give you and then ask me for which bullet point you should expand on. Create a new outline for the bullet point that I select. At the end, ask me for what bullet point to expand next. Ask me for what to outline
-Semantic Filter pattern:
+###  Semantic Filter pattern:
 - Filter this information to remove X
 Example:
 - Filter this email to remove redundant information.

@@ -6,6 +6,29 @@ created: 2023-06-30
 rank: "4"
 ---
 
+
+### Course
+ - mindmap
+ - 
+### Lesson
+- learning outcome
+- objective
+- Focus question
+- Summative assessment
+
+
+- hook
+- Foundational material (I do) 7-15 minutes
+- Guided practice and retrieval practice - formative assessment (We do)
+
+- Closure
+- Reflective notes
+- 
+- metaphor
+- script
+- recall questions
+- questions student might have after direct instruction
+
 ## Course development process
 - The **situation** is that my START HERE series on Youtube was a flagship of success. 
 - The **objective** is to create a process for creating evidenced based elearning courses.
@@ -23,22 +46,17 @@ rank: "4"
 [[Mind map]]
 [[aws DEA cards questions]]
 
-## Actual Descriptions
-#### Logline
-
-Harness the promise of your ideas by learning to wrangle them into linked digital notes, giving you a series of starting points for new projects.
-
-#### What you can learn
-
-- Create a digital system that turns your many ideas into compelling and completed stories
-- Harness the power of linked digital notes to connect various ideas and give you a launchpad for new projects
-- Learn to manage multiple ideas simultaneously and make better progress toward your writing goals
-- Enhance your creative output once you grasp how to link various ideas into a powerful story matrix
-
-#### About this course
-
-It doesn’t matter if you have the best ideas if you can’t develop them into anything. In this course, you will create a digital system that supports and powers your writing efforts—so you can turn your many ideas into compelling and completed stories. You will learn how to use linked digital notes to never start from a blank page again, to overcome Writer’s Block, and to stay in flow to get more of your best writing done more often. As you develop your digital writing system throughout this course, you will experience first-hand how linking ideas digitally gets you generating more sparks in your work than ever before. By the end of this course, you should be able to use linked digital notes to effectively manage multiple ideas simultaneously and reliably make progress in your writing efforts—leading to some of your most inspired and valuable creative output.
-
+Build 
+– mind map
+– Metaphors
+– Recall questions
+– Script
+– record video
+– Record audio
+– Edit together
+– Questions a student might have
+Measure 
+Learn
 
 
 

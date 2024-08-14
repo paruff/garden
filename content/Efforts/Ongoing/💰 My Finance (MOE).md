@@ -33,3 +33,5 @@ You might even find an excellent balance between managing projects and efforts o
 ---
 
 Back to: [[Home]]
+
+https://www.investopedia.com/trading/factors-influence-exchange-rates/
