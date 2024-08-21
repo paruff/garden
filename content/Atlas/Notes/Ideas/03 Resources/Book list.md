@@ -1,3 +1,7 @@
+
+Might have to create a Great Book list as well as a Great Western Book and classical education 
+The Great Books where books of Literature, histories or philosophy 
+
 Annual :
 Meditations , by Marcus aurelius 
 Thinking fast and slow, by Daniel Kanaman 
@@ -68,3 +72,30 @@ Meditations, Marcus Aurelius - [https://www.thepaintedporch.com/produ...](https:
 - 3 The Great Gatsby 
 - 2 Ulysees 
 - 1 One Hundred Years of Solitude
+
+Books that changed the world
+https://youtube.com/watch?v=Jd-uSs009Ok&si=5TMbEeMBEG7KGs_d
+
+
+Great books prof Book recommendation 
+https://youtube.com/playlist?list=PLsrUuITxFGJ3hjNtlKOxWWZXA1vkP2qLG&si=2wSgP48Rk6dzf0-S
+
+https://youtube.com/watch?v=cQ5GatTJmy0&si=7kb3FXiP4C9FI2pC
+
+
+https://en.wikipedia.org/wiki/Harvard_Classics
+https://en.wikipedia.org/wiki/Great_Books_of_the_Western_World
+
+
+https://en.wikipedia.org/wiki/Sacred_Books_of_the_East
+https://en.wikipedia.org/wiki/Gateway_to_the_Great_Books
+
+How to Read a Book
+https://web.archive.org/web/20220508140428/http://www.cyberspacei.com/greatbooks/h2/how2read/h2r_016.htm
+
+https://archive.org/details/encyclopaediabritannicagreatbooksofthewesternworld
+
+
+10 year reading plan - [The 10 Year Reading Plan for the Great Books of the Western World - ThinkingWest](https://thinkingwest.com/10-year-reading-plan/)
+
+http://www.interleaves.org/~rteeter/greatbks.html

@@ -32,4 +32,13 @@ tags:
  - Measure - automated watering system implemented based on grey water and backed up by municipal water
  - Image - planned wind break and 10 tree triads with vertical triads 3x3
  - Behavior- morning or evening walk along the windbreak and through the edible forest garden 🪴 
+### EBLLL 
+ - Measure - create learning and recall content based on things I am learning
+ - Image - schema and mind maps growing on the walls of my office and in my mind, supported by SRRI systems
+ - Behavior- Weekly efforts to create new learning content , sharing them and listening to feedback 
+### Finances
+ - Measure - align spending with budget and portfolio aligned with personal finanacial policy statement 
+ - Image - alignment with Belen and the priorities of our efforts and values.
+ - Behavior- quarterly financial a few hours from budget and actual  review to CC cancel and apply to withdrawal and rebalance
+
 

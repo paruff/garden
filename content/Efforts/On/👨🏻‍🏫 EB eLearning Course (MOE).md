@@ -9,13 +9,14 @@ rank: "4"
 
 ### Course
  - mindmap
- - 
+ - metaphor
+ - motivation
+ - learning objective
+ - unit objectives
 ### Lesson
 - learning outcome
-- objective
 - Focus question
 - Summative assessment
-
 
 - hook
 - Foundational material (I do) 7-15 minutes
