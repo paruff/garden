@@ -1,13 +1,16 @@
 ---
 up:
-  - "[[Home]]"
+  - "[[Home Pro Basic]]"
+in:
+  - "[[Views]]"
+  - "[[Maps]]"
 related:
   - "[[Relate]]"
   - "[[Communicate]]"
 created: 2022-01-01
-obsidianUIMode: preview
-tags:
-  - map/view
+rank: 3
+mapState:
+  - 🟩
 ---
 This **Add** note isn't just an inbox. It's a cooling pad 🧊.
 Thoughts come in hot. But after a few days, they cool down.

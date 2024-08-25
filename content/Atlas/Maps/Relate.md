@@ -1,12 +1,16 @@
 ---
 up:
-  - "[[Home]]"
+  - "[[Home Pro Basic]]"
+in:
+  - "[[Views]]"
+  - "[[Maps]]"
 related:
   - "[[Add]]"
   - "[[Communicate]]"
 created: 2022-02-22
-tags:
-  - map/view
+rank: 3.5
+mapState:
+  - 🟩
 obsidianUIMode: preview
 cssclasses:
   - wide-page
@@ -24,7 +28,7 @@ Here's how it works: When you are in a note and have a feeling that you want to 
 > > 
 > > ```dataview
 > > LIST
-> > FROM #note/boat🚤 
+> > FROM #note/connect🚤  
 > > SORT file.cday desc
 > > LIMIT 10
 > > ```

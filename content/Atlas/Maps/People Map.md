@@ -1,12 +1,16 @@
 ---
 up:
-  - "[[Home]]"
-related: []
+  - "[[Home Pro Basic]]"
+in:
+  - "[[Maps]]"
+related: 
 created: 2016-06-01
-tags:
-  - map
+rank: 2
+mapState:
+  - 🟨
 ---
-Have a place to honor the importance of the people your life.  Once you feel comfortable, adding notes for people—whether they are living or not—you will notice how it helps your understanding of them.
+Have a place to honor the importance of the people your life.  Once you feel comfortable, if you add notes for people—whether they are living or not—you will notice that it can help your understanding of them.
+
 Here's a cool view for you:
 
 > [!user]+ ## Prominent People 🌋
@@ -15,11 +19,11 @@ Here's a cool view for you:
 > ```dataview
 > TABLE WITHOUT ID
 >  file.link as People,
->  dates as "Years Lived"
+>  lifespan as "Years Lived"
 > 
-> FROM #people
+> FROM #people/p 
 > 
-> SORT dates asc
+> SORT lifespan asc
 > ```
 > 
 > ---

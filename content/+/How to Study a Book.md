@@ -2,9 +2,10 @@
 up: 
 related: 
 created: 2024-08-20
-tags:
+tags: 
 ---
-https://youtube.com/watch?v=mrC9AufUcR8&si=XjWsdlmjzF4VqReb
+
+![image|150]({{coverUrl}})https://youtube.com/watch?v=mrC9AufUcR8&si=XjWsdlmjzF4VqReb
 
 1. Research the author
 2. Read the book in two formats, first read the words, second listen to the book

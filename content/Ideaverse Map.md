@@ -1,10 +1,11 @@
 ---
 up:
-  - "[[Home]]"
+  - "[[Home Pro Basic]]"
+in:
+  - "[[Maps]]"
 created: 2023-08-30
+rank: 1
 obsidianUIMode: preview
-tags:
-  - map
 ---
 
 > [!Planet]- ## How to Customize your own Ideaverse.
@@ -15,7 +16,7 @@ tags:
 > - Create living notes in a process called *note-making*.
 > - Use MOCs to generate massive amounts of personal value.
 > - Build your Home note so you can effectively scale your PKM.
-> - Use the [[ACE Folder Framework]] to manage a lifetime of ideas.
+> - Use the [[ACE Headspace]] to manage a lifetime of ideas.
 > - Learn about how to use "efforts" instead of projects.
 > 
 > Let's get started...
@@ -58,10 +59,10 @@ tags:
 > [!Puzzle]- ## How to customize your ACE headspace
 > In just 3 folders, you can have a folder structure you use for the rest of your life. 
 > 
-> - Learn about the [[ACE Folder Framework]].
-> 	- [[ACE honors the 3 head spaces of PKM]]
+> - Learn about the [[ACE Headspace]].
+> 	- [[ACE honors the 3 headspaces of PKM]]
 > 	- [[ACE helps you with context switching]]
-> 	- See how [[The ACE Folder Framework Flexes For You]].
+> 	- See how [[The ACE Headspace allows for flexible folders]].
 > - ---
 > - [[A deeper dive into how ACE works]] + [[Use STIR To Remember More]]
 > 
@@ -98,8 +99,8 @@ tags:
 > - [[About LYT]]
 > - [[LYT Glossary]]
 > - [[Guiding Values of PKM]]
-> - [[Nick Milo's Custom Callouts]]
+> - [[Nick Milo's Starting Custom Callouts]]
 > - [[Guiding assumptions for linked notes]]
 > - [[Ideaverse for Obsidian - Release Notes]]
 
-Back to [[Home]]
+Back to [[Home Pro Basic]] 

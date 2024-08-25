@@ -14,7 +14,7 @@ That is the promise of an ideaverse. An ideaverse is:
 
 > [!Joystick]+ Can you move this note...
 > - Hit `Cmd-m` or `Ctrl-m`.
-> - Start typing `Ideas`
+> - Start typing `Things`
 > - Hit enter. 
 > - You've just moved this note from `+` to a part of `Atlas`.
 

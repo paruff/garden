@@ -1,3 +1,10 @@
+---
+up: 
+related: 
+created: 2024-08-25
+tags:
+---
+
 Yellowstone old faithful
 https://youtube.com/live/SGO66WWTanQ?si=dOV5qcWue6NEete9
 

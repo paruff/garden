@@ -1,10 +1,19 @@
 ---
 up:
-  - "[[Home]]"
+  - "[[Home Pro Basic]]"
+in:
+  - "[[Collections]]"
+  - "[[Views]]"
+  - "[[Maps]]"
 created: 2023-08-19
-tags:
-  - map
+rank: 4.5
+mapState:
+  - 🟩
 ---
+
+> [!video]- Click here to view the related video lessons
+> - [How to Use the Efforts Collection](https://community.linkingyourthinking.com/c/ideaverse-pro/sections/146181/lessons/513569)
+
 Keep your priorities in order. Quickly adjust your bandwidth as needed. 
 
 > [!Box]+ ### 🔥 On
@@ -41,12 +50,11 @@ Keep your priorities in order. Quickly adjust your bandwidth as needed.
 ---
 
 > [!faq]+ Learn more about Efforts
-> - [[A deeper dive into how ACE works]]
-> - [[Why Efforts are Liberating]]
-> - [[The Four Intensities of Efforts]]
-> - [[How ideas and efforts play nicely together]]
 > - [[The big differences between efforts and projects]]
+> - [[The Four Intensities of Efforts]]
+> - [[Why Efforts are Liberating]]
+> - [[How ideas and efforts play nicely together]]
 >   
 >   ![[robert-mccall-black-hole-concept-art copy.jpg]]
 
-Back to [[Home]].
+Back to [[Home Pro Basic]] 

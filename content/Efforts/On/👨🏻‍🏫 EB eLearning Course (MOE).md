@@ -27,7 +27,7 @@ rank: "4"
 - 
 - metaphor
 - script
-- recall questions
+- [[retrieval questions]]
 - questions student might have after direct instruction
 
 ## Course development process

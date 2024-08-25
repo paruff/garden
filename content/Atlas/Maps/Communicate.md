@@ -1,20 +1,24 @@
 ---
 up:
-  - "[[Home]]"
+  - "[[Home Pro Basic]]"
+in:
+  - "[[Views]]"
+  - "[[Maps]]"
 related:
   - "[[Add]]"
   - "[[Relate]]"
 created: 2022-01-01
-tags:
-  - map/view
+rank: 2
+mapState:
+  - 🟩
 ---
-This **Communicate** notes is a place to track your various *outputs*.
+This **Communicate** note is a place to track your various *outputs*.
 
 Below are simple examples using the tag `output` to track my, well, outputs. 
 
-This is enough to get you started. Over time, you might to customize your views.
+This is enough to get you started. Over time, you should customize your views.
 
-> [!Script]- ###### Newsletters
+> [!Script]- ##### Newsletters
 > ```dataview
 > TABLE WITHOUT ID
 >  file.link as "",
@@ -25,10 +29,8 @@ This is enough to get you started. Over time, you might to customize your views.
 > SORT created desc
 >  ```
 
-# Videos
-
-> [!Watch]+ ###### Videos on Deck
-> This filters for `#output/youtube◻️` with a rank above `3`.
+> [!Watch]- ##### Videos on Deck
+> This filters for `#output/youtube◻️` with a rank above `3`. This may be empty for Ideaverse Pro, but it's not for Nick's personal ideaverse.
 > 
 > ```dataview
 > TABLE WITHOUT ID
@@ -42,16 +44,13 @@ This is enough to get you started. Over time, you might to customize your views.
 > SORT rank desc
 > ```
 
-
-> [!Video]- ###### Published Youtube Videos
+> [!Video]- ##### Premiered Youtube Videos
 > ```dataview
 > TABLE WITHOUT ID
 >  file.link as "",
->  created as "Published"
+>  premiered as "Premiered"
 >  
 > FROM #output/youtube☑️  and -#x/readme
 > 
 > SORT created desc
 >  ```
-
-
