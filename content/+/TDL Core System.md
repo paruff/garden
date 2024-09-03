@@ -1,3 +1,10 @@
+---
+up: 
+related: 
+created: 2024-09-03
+tags:
+---
+
 
 - 📚 **Core Documents:** Values and strategic plans that guide personal and professional life.
 	- Values
