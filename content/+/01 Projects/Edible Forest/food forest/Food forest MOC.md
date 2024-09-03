@@ -94,6 +94,6 @@ Resources:
 [[Edible Forest Gardens v1 vision and theory]]
 [[Plant Partners]]
 [[How to Grow Perennial Vegetables]]
-[[Fruit Trees for Every Garden]]
-[[Growing Fruit Trees]]
+[[Fruit Trees for Every Garden orig]]
+[[Growing Fruit Trees orig]]
 [[Tending the Wild]]

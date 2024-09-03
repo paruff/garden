@@ -1,12 +1,22 @@
 ---
 up:
   - "[[People Map]]"
+in:
+  - "[[People]]"
 related: 
-created: 2024-08-07
+created: 2024-08-26
 tags:
   - people
 dates: 1899-1966
+peopleType: 
+peopleDomain: 
+peopleGroups: 
+lifespan: 
+finalAge: 
+culturalEra: 
+culturalWorks:
 ---
+
 know him as the author of the Hornblower series of nautical adventure. 
 
 

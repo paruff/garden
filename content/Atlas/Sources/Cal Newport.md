@@ -1,13 +1,19 @@
 ---
 up:
   - "[[People Map]]"
+in:
+  - "[[People]]"
 related: 
-year: 
-encountered: 
+created: 2024-08-26
 tags:
   - people
   - productivity
-type:
+year: 
+encountered: 
+type: 
+peopleType: 
+peopleDomain: 
+peopleGroups:
 ---
 [[Deep Life Stack 2.0]]
 

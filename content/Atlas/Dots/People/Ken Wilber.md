@@ -1,12 +1,22 @@
 ---
 up:
   - "[[People Map]]"
+in:
+  - "[[People]]"
 related: 
-created: 2020-06-01
+created: 2024-08-26
 tags:
   - people
 dates: "1949"
+peopleType: 
+peopleDomain: 
+peopleGroups: 
+lifespan: 
+finalAge: 
+culturalEra: 
+culturalWorks:
 ---
+
 
 Ken Wilber a very interesting guy. Spirituality and mindfulness. Early introduction to him came from a mass market book titled _[The Marriage of Sense and Soul: Integrating Science and Religion](https://en.wikipedia.org/wiki/The_Marriage_of_Sense_and_Soul:_Integrating_Science_and_Religion "The Marriage of Sense and Soul: Integrating Science and Religion")_, and then I read lots of things. He tends to explain his view of the world for the first 50- 100 pages of most of his later books.
 

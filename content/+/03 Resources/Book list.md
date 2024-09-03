@@ -8,6 +8,13 @@ The Great Books where books of Literature, histories or philosophy
  - The Great Books of Western World
 
 
+Top five/six
+ - Ilad Odessey by homer
+ - enead by Virgil 
+ - Divine Comedy by Dante 
+ - Bible
+ - Plays of Shakespeare 
+
 Annual :
 Meditations , by Marcus aurelius 
 Thinking fast and slow, by Daniel Kanaman 
@@ -114,3 +121,10 @@ https://www.alexanderarguelles.com/great-books/
 http://www.theworldsclassics.org/p/lists.html
 
 https://www.reddit.com/r/FreeEBOOKS/comments/eaohtf/great_books_of_the_western_world_ebook_collection/
+
+
+https://www.myharvardclassics.com/categories/20120611_4
+http://gutenberg.net.au/greatest-books-a.html
+
+### reading guides
+https://westerntradition.wordpress.com/great-books-project/great-books-project-post-index/

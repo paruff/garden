@@ -1,26 +1,32 @@
 ---
+up: 
 in:
   - "[[Books]]"
   - "[[Sources]]"
 related: 
 by:
-  - "[[Mortimer J. Adler, Charles van Doren]]"
-created: "2024-08-26"
-publisher: "[[]]"
-published: 1972
-bookType: 
-bookCategory: 
-bookGroup: 
-pages: 0
-image: 
+  - "[[{{author}}]]"
+created: 2024-08-26
+tags: 
 year: 
+encountered: 
+type: "[[Book]]"
+publisher: "[[{{publisher}}]]"
+published:
+  "{ publishDate }": 
+bookType: 
+bookCategory:
+  "{ category }": 
+bookGroup: 
+pages:
+  "{ totalPage }": 
+image:
+  "{ coverUrl }": 
 yearXP: 
 yearXPL: 
 bookStatus: 
 rating:
 ---
-
-![image|150]()
 
 ![image|150]({{coverUrl}})
 [YouTube](https://youtu.be/tZ_icGeC_Ws?si=WAVtH_UgUbN6-lsr)
@@ -70,7 +76,6 @@ Rules:
  - RULE 2. STATE THE UNITY OF THE WHOLE BOOK IN A SINGLE SENTENCE, OR AT MOST A FEW SENTENCES (A SHORT PARAGRAPH).
  - RULE 3. SET FORTH THE MAJOR PARTS OF THE BOOK, AND SHOW HOW THESE ARE ORGANIZED INTO A WHOLE, BY BEING ORDERED TO ONE ANOTHER AND TO THE UNITY OF THE WHOLE.
  - RULE 4. FIND OUT WHAT THE AUTHOR’S PROBLEMS WERE.
- - RULE 5. FIND THE IMPORTANT WORDS AND THROUGH THEM COME TO TERMS WITH THE AUTHOR.
 
 Criticizing a book:
 	1. Completeness - did the book accomplish its goals? was anything left unresolved or unaddressed? 
